@@ -1,0 +1,37 @@
+Namespace(project='teen', dataset='cifar100', dataroot='CIFAR_DATA_DIR', temperature=16.0, feat_norm=False, epochs_base=600, epochs_new=100, lr_base=0.1, lr_new=0.1, optim='sgd', schedule='Cosine', milestones=[60, 70], step=20, decay=0.0005, momentum=0.9, gamma=0.1, tmax=600, not_data_init=False, batch_size_base=256, batch_size_new=0, test_batch_size=100, base_mode='ft_cos', new_mode='avg_cos', start_session=0, model_dir=None, only_do_incre=False, gpu='0', num_workers=8, seed=1, debug=False, trainTest='train', incremental_training=0, softmax_t=16.0, shift_weight=0.1, soft_mode='soft_proto', num_gpu=1, time_str='1223-18-20-41-423', save_path='./checkpoint/cifar100/teen/ft_cos-avg_cos-data_init-start_0/1223-18-20-41-423-Epo_600-Bs_256-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_600-NormF-T_16.00-tw_16.0-0.1-soft_proto', base_class=60, num_classes=100, way=5, shot=5, sessions=9, Dataset=<module 'dataloader.cifar100.cifar' from '/home/kks/kks/PICOMP1/dataloader/cifar100/cifar.py'>)
+Session 0, Test Best Epoch 583,
+best test Acc 78.4830
+
+Seen Acc:0.7585  Unseen Acc:0.254
+Session 1, test Acc 71.969
+
+Seen Acc:0.7485  Unseen Acc:0.25
+Session 2, test Acc 67.729
+
+Seen Acc:0.739  Unseen Acc:0.22999999999999998
+Session 3, test Acc 63.720
+
+Seen Acc:0.7323333333333333  Unseen Acc:0.2395
+Session 4, test Acc 60.913
+
+Seen Acc:0.7231666666666666  Unseen Acc:0.24120000000000005
+Session 5, test Acc 58.141
+
+Seen Acc:0.7173333333333333  Unseen Acc:0.25333333333333335
+Session 6, test Acc 56.267
+
+Seen Acc:0.7143333333333334  Unseen Acc:0.23857142857142857
+Session 7, test Acc 53.905
+
+Seen Acc:0.7051666666666667  Unseen Acc:0.24275000000000002
+Session 8, test Acc 52.020
+
+Base Session Best Epoch 583
+
+[78.483, 71.969, 67.729, 63.72, 60.913, 58.141, 56.267, 53.905, 52.02]
+Seen acc:
+[75.85, 74.85, 73.9, 73.233, 72.317, 71.733, 71.433, 70.517]
+Unseen acc:
+[25.4, 25.0, 23.0, 23.95, 24.12, 25.333, 23.857, 24.275]
+Harmonic mean:
+[38.056, 37.481, 35.082, 36.095, 36.175, 37.443, 35.768, 36.117]

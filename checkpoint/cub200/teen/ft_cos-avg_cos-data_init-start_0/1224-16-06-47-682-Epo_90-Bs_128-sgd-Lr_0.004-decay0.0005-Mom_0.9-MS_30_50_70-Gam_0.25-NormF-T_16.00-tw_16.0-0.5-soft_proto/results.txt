@@ -1,0 +1,43 @@
+Namespace(project='teen', dataset='cub200', dataroot='CUB_DATA_DIR', temperature=16.0, feat_norm=False, epochs_base=90, epochs_new=100, lr_base=0.004, lr_new=0.1, optim='sgd', schedule='Milestone', milestones=[30, 50, 70], step=20, decay=0.0005, momentum=0.9, gamma=0.25, tmax=600, not_data_init=False, batch_size_base=128, batch_size_new=0, test_batch_size=100, base_mode='ft_cos', new_mode='avg_cos', start_session=0, model_dir=None, only_do_incre=False, gpu='3', num_workers=8, seed=1, debug=False, trainTest='train', incremental_training=0, softmax_t=16.0, shift_weight=0.5, soft_mode='soft_proto', num_gpu=1, time_str='1224-16-06-47-682', save_path='./checkpoint/cub200/teen/ft_cos-avg_cos-data_init-start_0/1224-16-06-47-682-Epo_90-Bs_128-sgd-Lr_0.004-decay0.0005-Mom_0.9-MS_30_50_70-Gam_0.25-NormF-T_16.00-tw_16.0-0.5-soft_proto', base_class=100, num_classes=200, way=10, shot=5, sessions=11, Dataset=<module 'dataloader.cub200.cub200' from '/home/kks/kks/entropy/dataloader/cub200/cub200.py'>)
+Session 0, Test Best Epoch 64,
+best test Acc 80.7310
+
+Seen Acc:0.7757355924657275  Unseen Acc:0.5762280701754385
+Session 1, test Acc 75.876
+
+Seen Acc:0.7687240982128539  Unseen Acc:0.491016333938294
+Session 2, test Acc 71.838
+
+Seen Acc:0.7673907648795205  Unseen Acc:0.4174783222423876
+Session 3, test Acc 67.214
+
+Seen Acc:0.7586903373155248  Unseen Acc:0.4447466727162734
+Session 4, test Acc 66.983
+
+Seen Acc:0.7553102059526349  Unseen Acc:0.424211131276467
+Session 5, test Acc 63.563
+
+Seen Acc:0.7485056082514855  Unseen Acc:0.4284942240659119
+Session 6, test Acc 62.058
+
+Seen Acc:0.7430052293200718  Unseen Acc:0.43508043507784233
+Session 7, test Acc 61.515
+
+Seen Acc:0.7403155741476581  Unseen Acc:0.4152239268595893
+Session 8, test Acc 59.094
+
+Seen Acc:0.7341654944256143  Unseen Acc:0.43367335595103285
+Session 9, test Acc 58.922
+
+Seen Acc:0.7318206668394075  Unseen Acc:0.4288807329996077
+Session 10, test Acc 57.716
+
+Base Session Best Epoch 64
+
+[80.731, 75.876, 71.838, 67.214, 66.983, 63.563, 62.058, 61.515, 59.094, 58.922, 57.716]
+Seen acc:
+[77.574, 76.872, 76.739, 75.869, 75.531, 74.851, 74.301, 74.032, 73.417, 73.182]
+Unseen acc:
+[57.623, 49.102, 41.748, 44.475, 42.421, 42.849, 43.508, 41.522, 43.367, 42.888]
+Harmonic mean:
+[66.126, 59.926, 54.077, 56.077, 54.329, 54.499, 54.88, 53.204, 54.526, 54.082]

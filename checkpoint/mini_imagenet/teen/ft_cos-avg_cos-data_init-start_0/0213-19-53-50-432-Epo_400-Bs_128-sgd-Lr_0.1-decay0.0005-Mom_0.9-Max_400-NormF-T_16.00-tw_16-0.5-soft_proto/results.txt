@@ -1,0 +1,37 @@
+Namespace(project='teen', dataset='mini_imagenet', dataroot='dataloader', temperature=16.0, feat_norm=False, epochs_base=400, epochs_new=100, lr_base=0.1, lr_new=0.1, optim='sgd', schedule='Cosine', milestones=[60, 70], step=20, decay=0.0005, momentum=0.9, gamma=0.1, tmax=400, not_data_init=False, batch_size_base=128, batch_size_new=0, test_batch_size=100, base_mode='ft_cos', new_mode='avg_cos', start_session=0, model_dir=None, only_do_incre=False, gpu='2', num_workers=8, seed=1, debug=False, trainTest='train', incremental_training=0, softmax_t=16, shift_weight=0.5, soft_mode='soft_proto', num_gpu=1, time_str='0213-19-53-50-432', save_path='./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto', base_class=60, num_classes=100, way=5, shot=5, sessions=9, Dataset=<module 'dataloader.miniimagenet.miniimagenet' from '/home/kks/kks/PICOMP1/dataloader/miniimagenet/miniimagenet.py'>)
+Session 0, Test Best Epoch 397,
+best test Acc 76.4670
+
+Seen Acc:0.7546666666666667  Unseen Acc:0.244
+Session 1, test Acc 71.538
+
+Seen Acc:0.7449999999999998  Unseen Acc:0.233
+Session 2, test Acc 67.186
+
+Seen Acc:0.7403333333333334  Unseen Acc:0.21666666666666665
+Session 3, test Acc 63.560
+
+Seen Acc:0.7383333333333333  Unseen Acc:0.22350000000000003
+Session 4, test Acc 60.962
+
+Seen Acc:0.7345  Unseen Acc:0.2148
+Session 5, test Acc 58.165
+
+Seen Acc:0.7308333333333332  Unseen Acc:0.20166666666666663
+Session 6, test Acc 55.444
+
+Seen Acc:0.7266666666666666  Unseen Acc:0.20857142857142857
+Session 7, test Acc 53.579
+
+Seen Acc:0.7228333333333333  Unseen Acc:0.21975000000000003
+Session 8, test Acc 52.160
+
+Base Session Best Epoch 397
+
+[76.55, 71.538, 67.186, 63.56, 60.962, 58.165, 55.444, 53.579, 52.16]
+Seen acc:
+[75.467, 74.5, 74.033, 73.833, 73.45, 73.083, 72.667, 72.283]
+Unseen acc:
+[24.4, 23.3, 21.667, 22.35, 21.48, 20.167, 20.857, 21.975]
+Harmonic mean:
+[36.877, 35.498, 33.523, 34.313, 33.239, 31.611, 32.411, 33.704]

@@ -1,0 +1,37 @@
+Namespace(project='teen', dataset='mini_imagenet', dataroot='dataloader', temperature=16.0, feat_norm=False, epochs_base=400, epochs_new=100, lr_base=0.1, lr_new=0.1, optim='sgd', schedule='Cosine', milestones=[60, 70], step=20, decay=0.0005, momentum=0.9, gamma=0.1, tmax=400, not_data_init=False, batch_size_base=128, batch_size_new=0, test_batch_size=100, base_mode='ft_cos', new_mode='avg_cos', start_session=0, model_dir=None, only_do_incre=False, gpu='2', num_workers=8, seed=1, debug=False, trainTest='train', incremental_training=0, softmax_t=16, shift_weight=0.5, soft_mode='soft_proto', num_gpu=1, time_str='1224-06-32-17-066', save_path='./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/1224-06-32-17-066-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto', base_class=60, num_classes=100, way=5, shot=5, sessions=9, Dataset=<module 'dataloader.miniimagenet.miniimagenet' from '/home/kks/kks/entropy/dataloader/miniimagenet/miniimagenet.py'>)
+Session 0, Test Best Epoch 386,
+best test Acc 75.9170
+
+Seen Acc:0.7463333333333334  Unseen Acc:0.172
+Session 1, test Acc 70.215
+
+Seen Acc:0.7388333333333333  Unseen Acc:0.18000000000000002
+Session 2, test Acc 65.900
+
+Seen Acc:0.7311666666666666  Unseen Acc:0.1966666666666667
+Session 3, test Acc 62.427
+
+Seen Acc:0.7231666666666665  Unseen Acc:0.20299999999999999
+Session 4, test Acc 59.312
+
+Seen Acc:0.7163333333333333  Unseen Acc:0.1844
+Session 5, test Acc 55.988
+
+Seen Acc:0.7131666666666666  Unseen Acc:0.17133333333333325
+Session 6, test Acc 53.256
+
+Seen Acc:0.7058333333333333  Unseen Acc:0.1871428571428571
+Session 7, test Acc 51.474
+
+Seen Acc:0.7013333333333335  Unseen Acc:0.18650000000000003
+Session 8, test Acc 49.540
+
+Base Session Best Epoch 386
+
+[75.917, 70.215, 65.9, 62.427, 59.312, 55.988, 53.256, 51.474, 49.54]
+Seen acc:
+[74.633, 73.883, 73.117, 72.317, 71.633, 71.317, 70.583, 70.133]
+Unseen acc:
+[17.2, 18.0, 19.667, 20.3, 18.44, 17.133, 18.714, 18.65]
+Harmonic mean:
+[27.957, 28.948, 30.997, 31.701, 29.33, 27.629, 29.584, 29.465]
