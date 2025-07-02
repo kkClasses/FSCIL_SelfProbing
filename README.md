@@ -44,12 +44,12 @@ Please follow the guidelines in [CEC](https://github.com/icoz69/CEC-CVPR2021) to
 
 
 ## Code Structures and details
-There are four parts in the code.
+There are five major directories.
  - `models`: It contains the backbone network and training protocols for the experiment.
  - `data`: The splits for the data sets.
  - `dataSet`: The data sets.
  - `dataloader`: Dataloader of different datasets.
-
+ - `script`: Execution details.
 ## Training scripts
 
 Please see `scripts` folder.
@@ -65,3 +65,6 @@ We thank the following repos providing helpful components/functions in our work.
 
 ## Contact 
 If there are any questions, please feel free to contact with the author: K K Singh (krishnasingh@rguktn.ac.in)
+
+
+
