@@ -28,11 +28,6 @@ class FSCILTrainer(Trainer):
 
         self.selfProbe1 = selfProbing(self.model.num_features)
 
-        # if self.args.model_dir_self_prob is not None:
-        #     logging.info('Loading init parameters from: %s' % self.args.model_dir_self_prob)
-        #     self.best_model_dict_selfProb = torch.load(self.args.model_dir_self_prob, map_location={'cuda:3': 'cuda:0'})['params']
-        #     self.selfProbe1.load_state_dict(self.best_model_dict_selfProb)
-
     def train(self,):
         args = self.args
         t_start_time = time.time()

@@ -14,8 +14,8 @@ class MYNET(nn.Module):
             self.encoder = resnet20()
             self.num_features = 64
         if self.args.dataset in ['mini_imagenet','manyshotmini','imagenet100','imagenet1000', 'mini_imagenet_withpath']:
-            #self.encoder = resnet18(False, args)  # pretrained=False
-            self.encoder = resnet18(True, args)  # pretrained=False
+            self.encoder = resnet18(False, args)  # pretrained=True
+         
             self.num_features = 512
         if self.args.dataset in ['cub200','manyshotcub']:
             self.encoder = resnet18(True, args)  # pretrained=True follow TOPIC, models for cub is imagenet pre-trained. https://github.com/xyutao/fscil/issues/11#issuecomment-687548790

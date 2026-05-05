@@ -1,0 +1,1045 @@
+Log level set to: INFO
+save_path: ./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto
+random init params
+new classes for this session:[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59]
+epo 0, test, loss=3.8911 acc=0.0715, acc@5=0.2582
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 0, best test acc=7.150
+epoch:000,lr:0.1000,training_loss:4.02756,training_acc:0.05576,test_loss:3.89113,test_acc:0.07150
+epo 1, test, loss=3.5998 acc=0.1360, acc@5=0.3685
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 1, best test acc=13.600
+epoch:001,lr:0.1000,training_loss:3.68241,training_acc:0.10734,test_loss:3.59976,test_acc:0.13600
+epo 2, test, loss=3.1881 acc=0.2045, acc@5=0.4885
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 2, best test acc=20.450
+epoch:002,lr:0.1000,training_loss:3.46703,training_acc:0.14547,test_loss:3.18805,test_acc:0.20450
+epo 3, test, loss=2.9937 acc=0.2227, acc@5=0.5252
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 3, best test acc=22.267
+epoch:003,lr:0.1000,training_loss:3.31203,training_acc:0.17355,test_loss:2.99374,test_acc:0.22267
+epo 4, test, loss=3.1383 acc=0.2080, acc@5=0.5000
+epoch:004,lr:0.1000,training_loss:3.19165,training_acc:0.19717,test_loss:3.13832,test_acc:0.20800
+epo 5, test, loss=2.7943 acc=0.2630, acc@5=0.5805
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 5, best test acc=26.300
+epoch:005,lr:0.1000,training_loss:3.10266,training_acc:0.21133,test_loss:2.79425,test_acc:0.26300
+epo 6, test, loss=2.6997 acc=0.2900, acc@5=0.6070
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 6, best test acc=29.000
+epoch:006,lr:0.0999,training_loss:3.01638,training_acc:0.23204,test_loss:2.69970,test_acc:0.29000
+epo 7, test, loss=2.8891 acc=0.2573, acc@5=0.5567
+epoch:007,lr:0.0999,training_loss:2.96520,training_acc:0.24222,test_loss:2.88910,test_acc:0.25733
+epo 8, test, loss=2.7702 acc=0.2807, acc@5=0.5822
+epoch:008,lr:0.0999,training_loss:2.89212,training_acc:0.25871,test_loss:2.77023,test_acc:0.28067
+epo 9, test, loss=2.5534 acc=0.3212, acc@5=0.6420
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 9, best test acc=32.117
+epoch:009,lr:0.0999,training_loss:2.83946,training_acc:0.26867,test_loss:2.55343,test_acc:0.32117
+epo 10, test, loss=3.0201 acc=0.2612, acc@5=0.5210
+epoch:010,lr:0.0998,training_loss:2.80490,training_acc:0.27928,test_loss:3.02012,test_acc:0.26117
+epo 11, test, loss=2.9368 acc=0.2632, acc@5=0.5478
+epoch:011,lr:0.0998,training_loss:2.77064,training_acc:0.28497,test_loss:2.93679,test_acc:0.26317
+epo 12, test, loss=2.7318 acc=0.2978, acc@5=0.5945
+epoch:012,lr:0.0998,training_loss:2.72871,training_acc:0.29869,test_loss:2.73178,test_acc:0.29783
+epo 13, test, loss=2.4184 acc=0.3587, acc@5=0.6710
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 13, best test acc=35.867
+epoch:013,lr:0.0997,training_loss:2.69733,training_acc:0.30176,test_loss:2.41838,test_acc:0.35867
+epo 14, test, loss=2.7157 acc=0.3037, acc@5=0.6075
+epoch:014,lr:0.0997,training_loss:2.65158,training_acc:0.31360,test_loss:2.71575,test_acc:0.30367
+epo 15, test, loss=2.5612 acc=0.3438, acc@5=0.6435
+epoch:015,lr:0.0997,training_loss:2.64331,training_acc:0.31621,test_loss:2.56116,test_acc:0.34383
+epo 16, test, loss=2.4268 acc=0.3605, acc@5=0.6680
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 16, best test acc=36.050
+epoch:016,lr:0.0996,training_loss:2.60323,training_acc:0.32207,test_loss:2.42682,test_acc:0.36050
+epo 17, test, loss=2.4115 acc=0.3600, acc@5=0.6732
+epoch:017,lr:0.0996,training_loss:2.58670,training_acc:0.32584,test_loss:2.41151,test_acc:0.36000
+epo 18, test, loss=2.4951 acc=0.3527, acc@5=0.6537
+epoch:018,lr:0.0995,training_loss:2.54976,training_acc:0.33543,test_loss:2.49507,test_acc:0.35267
+epo 19, test, loss=2.2618 acc=0.3958, acc@5=0.7123
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 19, best test acc=39.583
+epoch:019,lr:0.0994,training_loss:2.53594,training_acc:0.34197,test_loss:2.26184,test_acc:0.39583
+epo 20, test, loss=2.8621 acc=0.3065, acc@5=0.5837
+epoch:020,lr:0.0994,training_loss:2.50343,training_acc:0.34852,test_loss:2.86209,test_acc:0.30650
+epo 21, test, loss=2.2329 acc=0.4063, acc@5=0.7148
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 21, best test acc=40.633
+epoch:021,lr:0.0993,training_loss:2.49839,training_acc:0.34877,test_loss:2.23286,test_acc:0.40633
+epo 22, test, loss=2.6224 acc=0.3423, acc@5=0.6260
+epoch:022,lr:0.0993,training_loss:2.47258,training_acc:0.35238,test_loss:2.62243,test_acc:0.34233
+epo 23, test, loss=2.4661 acc=0.3698, acc@5=0.6655
+epoch:023,lr:0.0992,training_loss:2.44230,training_acc:0.36556,test_loss:2.46606,test_acc:0.36983
+epo 24, test, loss=2.4223 acc=0.3732, acc@5=0.6832
+epoch:024,lr:0.0991,training_loss:2.42203,training_acc:0.36986,test_loss:2.42231,test_acc:0.37317
+epo 25, test, loss=2.1810 acc=0.4195, acc@5=0.7270
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 25, best test acc=41.950
+epoch:025,lr:0.0990,training_loss:2.40153,training_acc:0.37276,test_loss:2.18097,test_acc:0.41950
+epo 26, test, loss=2.1147 acc=0.4308, acc@5=0.7400
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 26, best test acc=43.083
+epoch:026,lr:0.0990,training_loss:2.40768,training_acc:0.37174,test_loss:2.11470,test_acc:0.43083
+epo 27, test, loss=2.1338 acc=0.4323, acc@5=0.7367
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 27, best test acc=43.233
+epoch:027,lr:0.0989,training_loss:2.37638,training_acc:0.37743,test_loss:2.13382,test_acc:0.43233
+epo 28, test, loss=2.0850 acc=0.4395, acc@5=0.7440
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 28, best test acc=43.950
+epoch:028,lr:0.0988,training_loss:2.35619,training_acc:0.38091,test_loss:2.08496,test_acc:0.43950
+epo 29, test, loss=2.2631 acc=0.3962, acc@5=0.7107
+epoch:029,lr:0.0987,training_loss:2.36824,training_acc:0.38170,test_loss:2.26311,test_acc:0.39617
+epo 30, test, loss=2.3747 acc=0.4052, acc@5=0.6855
+epoch:030,lr:0.0986,training_loss:2.33737,training_acc:0.38979,test_loss:2.37469,test_acc:0.40517
+epo 31, test, loss=2.0901 acc=0.4410, acc@5=0.7442
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 31, best test acc=44.100
+epoch:031,lr:0.0985,training_loss:2.33254,training_acc:0.39066,test_loss:2.09008,test_acc:0.44100
+epo 32, test, loss=2.1311 acc=0.4370, acc@5=0.7300
+epoch:032,lr:0.0984,training_loss:2.32222,training_acc:0.39055,test_loss:2.13108,test_acc:0.43700
+epo 33, test, loss=2.1256 acc=0.4367, acc@5=0.7335
+epoch:033,lr:0.0983,training_loss:2.31085,training_acc:0.39492,test_loss:2.12560,test_acc:0.43667
+epo 34, test, loss=2.3040 acc=0.3940, acc@5=0.7075
+epoch:034,lr:0.0982,training_loss:2.27092,training_acc:0.40271,test_loss:2.30404,test_acc:0.39400
+epo 35, test, loss=2.1496 acc=0.4317, acc@5=0.7273
+epoch:035,lr:0.0981,training_loss:2.28604,training_acc:0.39756,test_loss:2.14962,test_acc:0.43167
+epo 36, test, loss=2.0619 acc=0.4445, acc@5=0.7505
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 36, best test acc=44.450
+epoch:036,lr:0.0980,training_loss:2.27161,training_acc:0.40019,test_loss:2.06191,test_acc:0.44450
+epo 37, test, loss=2.3453 acc=0.4120, acc@5=0.6910
+epoch:037,lr:0.0979,training_loss:2.25879,training_acc:0.40486,test_loss:2.34526,test_acc:0.41200
+epo 38, test, loss=2.1364 acc=0.4357, acc@5=0.7388
+epoch:038,lr:0.0978,training_loss:2.25343,training_acc:0.40788,test_loss:2.13641,test_acc:0.43567
+epo 39, test, loss=2.1577 acc=0.4318, acc@5=0.7317
+epoch:039,lr:0.0977,training_loss:2.25627,training_acc:0.40771,test_loss:2.15770,test_acc:0.43183
+epo 40, test, loss=2.3637 acc=0.3827, acc@5=0.6955
+epoch:040,lr:0.0976,training_loss:2.23784,training_acc:0.41271,test_loss:2.36375,test_acc:0.38267
+epo 41, test, loss=2.1139 acc=0.4402, acc@5=0.7333
+epoch:041,lr:0.0974,training_loss:2.22615,training_acc:0.41406,test_loss:2.11386,test_acc:0.44017
+epo 42, test, loss=2.1267 acc=0.4525, acc@5=0.7312
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 42, best test acc=45.250
+epoch:042,lr:0.0973,training_loss:2.21110,training_acc:0.41835,test_loss:2.12668,test_acc:0.45250
+epo 43, test, loss=2.1504 acc=0.4325, acc@5=0.7347
+epoch:043,lr:0.0972,training_loss:2.22710,training_acc:0.41465,test_loss:2.15039,test_acc:0.43250
+epo 44, test, loss=2.4000 acc=0.3855, acc@5=0.6847
+epoch:044,lr:0.0970,training_loss:2.20151,training_acc:0.41961,test_loss:2.40002,test_acc:0.38550
+epo 45, test, loss=2.2589 acc=0.4122, acc@5=0.7092
+epoch:045,lr:0.0969,training_loss:2.20388,training_acc:0.41758,test_loss:2.25888,test_acc:0.41217
+epo 46, test, loss=2.2311 acc=0.4135, acc@5=0.7142
+epoch:046,lr:0.0968,training_loss:2.20729,training_acc:0.42128,test_loss:2.23107,test_acc:0.41350
+epo 47, test, loss=2.0544 acc=0.4515, acc@5=0.7532
+epoch:047,lr:0.0966,training_loss:2.20836,training_acc:0.41500,test_loss:2.05442,test_acc:0.45150
+epo 48, test, loss=1.9536 acc=0.4853, acc@5=0.7675
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 48, best test acc=48.533
+epoch:048,lr:0.0965,training_loss:2.19730,training_acc:0.41887,test_loss:1.95360,test_acc:0.48533
+epo 49, test, loss=2.2774 acc=0.4167, acc@5=0.7087
+epoch:049,lr:0.0963,training_loss:2.18634,training_acc:0.42250,test_loss:2.27740,test_acc:0.41667
+epo 50, test, loss=2.2006 acc=0.4210, acc@5=0.7158
+epoch:050,lr:0.0962,training_loss:2.19617,training_acc:0.42062,test_loss:2.20062,test_acc:0.42100
+epo 51, test, loss=2.1438 acc=0.4377, acc@5=0.7320
+epoch:051,lr:0.0960,training_loss:2.16898,training_acc:0.42852,test_loss:2.14383,test_acc:0.43767
+epo 52, test, loss=2.2908 acc=0.4017, acc@5=0.7010
+epoch:052,lr:0.0959,training_loss:2.16775,training_acc:0.42937,test_loss:2.29082,test_acc:0.40167
+epo 53, test, loss=2.0532 acc=0.4578, acc@5=0.7452
+epoch:053,lr:0.0957,training_loss:2.17182,training_acc:0.42810,test_loss:2.05323,test_acc:0.45783
+epo 54, test, loss=2.0817 acc=0.4472, acc@5=0.7400
+epoch:054,lr:0.0956,training_loss:2.17154,training_acc:0.42661,test_loss:2.08172,test_acc:0.44717
+epo 55, test, loss=2.1119 acc=0.4360, acc@5=0.7413
+epoch:055,lr:0.0954,training_loss:2.15901,training_acc:0.43323,test_loss:2.11194,test_acc:0.43600
+epo 56, test, loss=2.0470 acc=0.4537, acc@5=0.7550
+epoch:056,lr:0.0952,training_loss:2.16049,training_acc:0.42820,test_loss:2.04701,test_acc:0.45367
+epo 57, test, loss=2.1113 acc=0.4433, acc@5=0.7427
+epoch:057,lr:0.0951,training_loss:2.14679,training_acc:0.43229,test_loss:2.11131,test_acc:0.44333
+epo 58, test, loss=2.1169 acc=0.4368, acc@5=0.7368
+epoch:058,lr:0.0949,training_loss:2.16514,training_acc:0.43055,test_loss:2.11685,test_acc:0.43683
+epo 59, test, loss=1.8647 acc=0.5040, acc@5=0.7818
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 59, best test acc=50.400
+epoch:059,lr:0.0947,training_loss:2.14512,training_acc:0.43317,test_loss:1.86474,test_acc:0.50400
+epo 60, test, loss=2.0308 acc=0.4522, acc@5=0.7613
+epoch:060,lr:0.0946,training_loss:2.13501,training_acc:0.43955,test_loss:2.03081,test_acc:0.45217
+epo 61, test, loss=1.8654 acc=0.4995, acc@5=0.7840
+epoch:061,lr:0.0944,training_loss:2.13419,training_acc:0.43409,test_loss:1.86539,test_acc:0.49950
+epo 62, test, loss=1.9602 acc=0.4738, acc@5=0.7725
+epoch:062,lr:0.0942,training_loss:2.13229,training_acc:0.43811,test_loss:1.96018,test_acc:0.47383
+epo 63, test, loss=1.7838 acc=0.5140, acc@5=0.8075
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 63, best test acc=51.400
+epoch:063,lr:0.0940,training_loss:2.12410,training_acc:0.43759,test_loss:1.78380,test_acc:0.51400
+epo 64, test, loss=1.8507 acc=0.5052, acc@5=0.7883
+epoch:064,lr:0.0938,training_loss:2.11680,training_acc:0.43849,test_loss:1.85074,test_acc:0.50517
+epo 65, test, loss=1.8069 acc=0.5185, acc@5=0.7942
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 65, best test acc=51.850
+epoch:065,lr:0.0936,training_loss:2.12323,training_acc:0.43553,test_loss:1.80690,test_acc:0.51850
+epo 66, test, loss=1.8597 acc=0.4992, acc@5=0.7830
+epoch:066,lr:0.0934,training_loss:2.11725,training_acc:0.43695,test_loss:1.85967,test_acc:0.49917
+epo 67, test, loss=1.9342 acc=0.4820, acc@5=0.7678
+epoch:067,lr:0.0932,training_loss:2.10161,training_acc:0.44331,test_loss:1.93424,test_acc:0.48200
+epo 68, test, loss=2.0604 acc=0.4612, acc@5=0.7408
+epoch:068,lr:0.0930,training_loss:2.12002,training_acc:0.43883,test_loss:2.06042,test_acc:0.46117
+epo 69, test, loss=1.9370 acc=0.4955, acc@5=0.7662
+epoch:069,lr:0.0928,training_loss:2.11057,training_acc:0.44132,test_loss:1.93699,test_acc:0.49550
+epo 70, test, loss=2.1152 acc=0.4440, acc@5=0.7312
+epoch:070,lr:0.0926,training_loss:2.11044,training_acc:0.43873,test_loss:2.11517,test_acc:0.44400
+epo 71, test, loss=1.9965 acc=0.4637, acc@5=0.7687
+epoch:071,lr:0.0924,training_loss:2.10483,training_acc:0.44177,test_loss:1.99653,test_acc:0.46367
+epo 72, test, loss=1.9872 acc=0.4767, acc@5=0.7642
+epoch:072,lr:0.0922,training_loss:2.09630,training_acc:0.44323,test_loss:1.98720,test_acc:0.47667
+epo 73, test, loss=1.7648 acc=0.5243, acc@5=0.7975
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 73, best test acc=52.433
+epoch:073,lr:0.0920,training_loss:2.10341,training_acc:0.44525,test_loss:1.76475,test_acc:0.52433
+epo 74, test, loss=1.9399 acc=0.4885, acc@5=0.7758
+epoch:074,lr:0.0918,training_loss:2.07825,training_acc:0.44939,test_loss:1.93991,test_acc:0.48850
+epo 75, test, loss=1.9730 acc=0.4732, acc@5=0.7627
+epoch:075,lr:0.0916,training_loss:2.08349,training_acc:0.44651,test_loss:1.97304,test_acc:0.47317
+epo 76, test, loss=1.9213 acc=0.4890, acc@5=0.7773
+epoch:076,lr:0.0914,training_loss:2.08841,training_acc:0.44797,test_loss:1.92134,test_acc:0.48900
+epo 77, test, loss=1.8048 acc=0.5127, acc@5=0.7957
+epoch:077,lr:0.0911,training_loss:2.07574,training_acc:0.45017,test_loss:1.80480,test_acc:0.51267
+epo 78, test, loss=1.8189 acc=0.5112, acc@5=0.7890
+epoch:078,lr:0.0909,training_loss:2.08275,training_acc:0.44936,test_loss:1.81892,test_acc:0.51117
+epo 79, test, loss=1.9385 acc=0.4827, acc@5=0.7657
+epoch:079,lr:0.0907,training_loss:2.06394,training_acc:0.45508,test_loss:1.93846,test_acc:0.48267
+epo 80, test, loss=1.9535 acc=0.4873, acc@5=0.7667
+epoch:080,lr:0.0905,training_loss:2.07763,training_acc:0.45168,test_loss:1.95353,test_acc:0.48733
+epo 81, test, loss=1.9231 acc=0.4897, acc@5=0.7685
+epoch:081,lr:0.0902,training_loss:2.06912,training_acc:0.45095,test_loss:1.92310,test_acc:0.48967
+epo 82, test, loss=1.9182 acc=0.4922, acc@5=0.7755
+epoch:082,lr:0.0900,training_loss:2.06611,training_acc:0.45172,test_loss:1.91819,test_acc:0.49217
+epo 83, test, loss=2.0436 acc=0.4575, acc@5=0.7512
+epoch:083,lr:0.0897,training_loss:2.08342,training_acc:0.44556,test_loss:2.04364,test_acc:0.45750
+epo 84, test, loss=1.8686 acc=0.5073, acc@5=0.7772
+epoch:084,lr:0.0895,training_loss:2.06644,training_acc:0.45389,test_loss:1.86861,test_acc:0.50733
+epo 85, test, loss=1.9569 acc=0.4798, acc@5=0.7665
+epoch:085,lr:0.0893,training_loss:2.07743,training_acc:0.44992,test_loss:1.95688,test_acc:0.47983
+epo 86, test, loss=2.1506 acc=0.4477, acc@5=0.7322
+epoch:086,lr:0.0890,training_loss:2.04779,training_acc:0.45650,test_loss:2.15057,test_acc:0.44767
+epo 87, test, loss=1.7654 acc=0.5202, acc@5=0.8130
+epoch:087,lr:0.0888,training_loss:2.04936,training_acc:0.45382,test_loss:1.76543,test_acc:0.52017
+epo 88, test, loss=2.1685 acc=0.4387, acc@5=0.7290
+epoch:088,lr:0.0885,training_loss:2.04645,training_acc:0.45896,test_loss:2.16851,test_acc:0.43867
+epo 89, test, loss=2.1415 acc=0.4528, acc@5=0.7490
+epoch:089,lr:0.0883,training_loss:2.05167,training_acc:0.45286,test_loss:2.14154,test_acc:0.45283
+epo 90, test, loss=1.8439 acc=0.5100, acc@5=0.7917
+epoch:090,lr:0.0880,training_loss:2.04215,training_acc:0.46037,test_loss:1.84391,test_acc:0.51000
+epo 91, test, loss=2.0210 acc=0.4710, acc@5=0.7520
+epoch:091,lr:0.0878,training_loss:2.03911,training_acc:0.46024,test_loss:2.02102,test_acc:0.47100
+epo 92, test, loss=1.8796 acc=0.5010, acc@5=0.7947
+epoch:092,lr:0.0875,training_loss:2.04563,training_acc:0.45916,test_loss:1.87963,test_acc:0.50100
+epo 93, test, loss=1.9152 acc=0.4932, acc@5=0.7743
+epoch:093,lr:0.0872,training_loss:2.04806,training_acc:0.45669,test_loss:1.91521,test_acc:0.49317
+epo 94, test, loss=1.8833 acc=0.4990, acc@5=0.7808
+epoch:094,lr:0.0870,training_loss:2.04044,training_acc:0.46113,test_loss:1.88326,test_acc:0.49900
+epo 95, test, loss=1.9587 acc=0.4753, acc@5=0.7633
+epoch:095,lr:0.0867,training_loss:2.02464,training_acc:0.46178,test_loss:1.95866,test_acc:0.47533
+epo 96, test, loss=2.0326 acc=0.4678, acc@5=0.7592
+epoch:096,lr:0.0864,training_loss:2.05360,training_acc:0.45339,test_loss:2.03258,test_acc:0.46783
+epo 97, test, loss=1.9302 acc=0.4817, acc@5=0.7765
+epoch:097,lr:0.0862,training_loss:2.01752,training_acc:0.46159,test_loss:1.93023,test_acc:0.48167
+epo 98, test, loss=2.1637 acc=0.4433, acc@5=0.7325
+epoch:098,lr:0.0859,training_loss:2.02576,training_acc:0.46057,test_loss:2.16369,test_acc:0.44333
+epo 99, test, loss=1.7675 acc=0.5250, acc@5=0.7980
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 99, best test acc=52.500
+epoch:099,lr:0.0856,training_loss:2.01555,training_acc:0.46354,test_loss:1.76748,test_acc:0.52500
+epo 100, test, loss=1.8864 acc=0.4928, acc@5=0.7883
+epoch:100,lr:0.0854,training_loss:2.02017,training_acc:0.46596,test_loss:1.88639,test_acc:0.49283
+epo 101, test, loss=1.8236 acc=0.5058, acc@5=0.7907
+epoch:101,lr:0.0851,training_loss:2.02905,training_acc:0.46126,test_loss:1.82363,test_acc:0.50583
+epo 102, test, loss=1.9608 acc=0.4825, acc@5=0.7637
+epoch:102,lr:0.0848,training_loss:1.99994,training_acc:0.46733,test_loss:1.96082,test_acc:0.48250
+epo 103, test, loss=1.9527 acc=0.4838, acc@5=0.7700
+epoch:103,lr:0.0845,training_loss:2.01393,training_acc:0.46387,test_loss:1.95273,test_acc:0.48383
+epo 104, test, loss=1.8562 acc=0.5043, acc@5=0.7940
+epoch:104,lr:0.0842,training_loss:2.01098,training_acc:0.46480,test_loss:1.85618,test_acc:0.50433
+epo 105, test, loss=2.0489 acc=0.4635, acc@5=0.7562
+epoch:105,lr:0.0839,training_loss:2.00702,training_acc:0.46824,test_loss:2.04887,test_acc:0.46350
+epo 106, test, loss=1.8115 acc=0.5162, acc@5=0.7890
+epoch:106,lr:0.0837,training_loss:2.00066,training_acc:0.46647,test_loss:1.81155,test_acc:0.51617
+epo 107, test, loss=1.7754 acc=0.5190, acc@5=0.8003
+epoch:107,lr:0.0834,training_loss:1.99597,training_acc:0.47200,test_loss:1.77538,test_acc:0.51900
+epo 108, test, loss=1.9174 acc=0.4918, acc@5=0.7790
+epoch:108,lr:0.0831,training_loss:1.99538,training_acc:0.46938,test_loss:1.91735,test_acc:0.49183
+epo 109, test, loss=1.8498 acc=0.5125, acc@5=0.7875
+epoch:109,lr:0.0828,training_loss:1.98242,training_acc:0.47158,test_loss:1.84980,test_acc:0.51250
+epo 110, test, loss=1.8023 acc=0.5108, acc@5=0.7998
+epoch:110,lr:0.0825,training_loss:1.98429,training_acc:0.47035,test_loss:1.80233,test_acc:0.51083
+epo 111, test, loss=2.0620 acc=0.4583, acc@5=0.7513
+epoch:111,lr:0.0822,training_loss:1.98861,training_acc:0.47222,test_loss:2.06198,test_acc:0.45833
+epo 112, test, loss=2.1142 acc=0.4518, acc@5=0.7435
+epoch:112,lr:0.0819,training_loss:1.98309,training_acc:0.47456,test_loss:2.11423,test_acc:0.45183
+epo 113, test, loss=1.9147 acc=0.4928, acc@5=0.7662
+epoch:113,lr:0.0816,training_loss:1.98978,training_acc:0.47364,test_loss:1.91474,test_acc:0.49283
+epo 114, test, loss=1.7736 acc=0.5180, acc@5=0.8050
+epoch:114,lr:0.0813,training_loss:1.99674,training_acc:0.46646,test_loss:1.77363,test_acc:0.51800
+epo 115, test, loss=1.9200 acc=0.4917, acc@5=0.7698
+epoch:115,lr:0.0810,training_loss:1.98811,training_acc:0.46990,test_loss:1.92002,test_acc:0.49167
+epo 116, test, loss=1.7590 acc=0.5355, acc@5=0.8038
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 116, best test acc=53.550
+epoch:116,lr:0.0806,training_loss:1.96848,training_acc:0.47508,test_loss:1.75901,test_acc:0.53550
+epo 117, test, loss=1.7375 acc=0.5370, acc@5=0.8067
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 117, best test acc=53.700
+epoch:117,lr:0.0803,training_loss:1.97846,training_acc:0.47726,test_loss:1.73747,test_acc:0.53700
+epo 118, test, loss=1.8920 acc=0.4952, acc@5=0.7782
+epoch:118,lr:0.0800,training_loss:1.97108,training_acc:0.47446,test_loss:1.89198,test_acc:0.49517
+epo 119, test, loss=1.8167 acc=0.5135, acc@5=0.7902
+epoch:119,lr:0.0797,training_loss:1.97000,training_acc:0.48003,test_loss:1.81670,test_acc:0.51350
+epo 120, test, loss=1.7705 acc=0.5228, acc@5=0.8007
+epoch:120,lr:0.0794,training_loss:1.96847,training_acc:0.47450,test_loss:1.77054,test_acc:0.52283
+epo 121, test, loss=1.7363 acc=0.5295, acc@5=0.7998
+epoch:121,lr:0.0791,training_loss:1.96266,training_acc:0.47593,test_loss:1.73632,test_acc:0.52950
+epo 122, test, loss=1.6976 acc=0.5360, acc@5=0.8230
+epoch:122,lr:0.0788,training_loss:1.96937,training_acc:0.47539,test_loss:1.69758,test_acc:0.53600
+epo 123, test, loss=1.9766 acc=0.4817, acc@5=0.7660
+epoch:123,lr:0.0784,training_loss:1.95716,training_acc:0.47897,test_loss:1.97664,test_acc:0.48167
+epo 124, test, loss=1.8934 acc=0.5008, acc@5=0.7778
+epoch:124,lr:0.0781,training_loss:1.95207,training_acc:0.48091,test_loss:1.89342,test_acc:0.50083
+epo 125, test, loss=1.8547 acc=0.5038, acc@5=0.7782
+epoch:125,lr:0.0778,training_loss:1.95661,training_acc:0.47883,test_loss:1.85465,test_acc:0.50383
+epo 126, test, loss=1.6298 acc=0.5578, acc@5=0.8247
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 126, best test acc=55.783
+epoch:126,lr:0.0775,training_loss:1.94361,training_acc:0.48160,test_loss:1.62976,test_acc:0.55783
+epo 127, test, loss=1.7193 acc=0.5307, acc@5=0.8133
+epoch:127,lr:0.0771,training_loss:1.95056,training_acc:0.47939,test_loss:1.71932,test_acc:0.53067
+epo 128, test, loss=1.6887 acc=0.5385, acc@5=0.8243
+epoch:128,lr:0.0768,training_loss:1.95228,training_acc:0.48047,test_loss:1.68871,test_acc:0.53850
+epo 129, test, loss=1.7498 acc=0.5347, acc@5=0.8008
+epoch:129,lr:0.0765,training_loss:1.95179,training_acc:0.48067,test_loss:1.74980,test_acc:0.53467
+epo 130, test, loss=1.7909 acc=0.5203, acc@5=0.8008
+epoch:130,lr:0.0761,training_loss:1.93042,training_acc:0.48420,test_loss:1.79095,test_acc:0.52033
+epo 131, test, loss=1.8213 acc=0.5095, acc@5=0.7953
+epoch:131,lr:0.0758,training_loss:1.94121,training_acc:0.48426,test_loss:1.82134,test_acc:0.50950
+epo 132, test, loss=1.8106 acc=0.5262, acc@5=0.7907
+epoch:132,lr:0.0755,training_loss:1.91458,training_acc:0.48691,test_loss:1.81061,test_acc:0.52617
+epo 133, test, loss=1.8841 acc=0.4908, acc@5=0.7830
+epoch:133,lr:0.0751,training_loss:1.93107,training_acc:0.48675,test_loss:1.88411,test_acc:0.49083
+epo 134, test, loss=1.8081 acc=0.5197, acc@5=0.7917
+epoch:134,lr:0.0748,training_loss:1.93217,training_acc:0.48354,test_loss:1.80815,test_acc:0.51967
+epo 135, test, loss=1.7008 acc=0.5442, acc@5=0.8170
+epoch:135,lr:0.0744,training_loss:1.92019,training_acc:0.48936,test_loss:1.70079,test_acc:0.54417
+epo 136, test, loss=1.8422 acc=0.5052, acc@5=0.7893
+epoch:136,lr:0.0741,training_loss:1.92786,training_acc:0.48604,test_loss:1.84225,test_acc:0.50517
+epo 137, test, loss=1.6578 acc=0.5448, acc@5=0.8188
+epoch:137,lr:0.0737,training_loss:1.92522,training_acc:0.48773,test_loss:1.65783,test_acc:0.54483
+epo 138, test, loss=1.7581 acc=0.5292, acc@5=0.8062
+epoch:138,lr:0.0734,training_loss:1.92103,training_acc:0.48912,test_loss:1.75805,test_acc:0.52917
+epo 139, test, loss=1.5839 acc=0.5682, acc@5=0.8352
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 139, best test acc=56.817
+epoch:139,lr:0.0730,training_loss:1.91609,training_acc:0.48994,test_loss:1.58385,test_acc:0.56817
+epo 140, test, loss=1.7635 acc=0.5255, acc@5=0.8008
+epoch:140,lr:0.0727,training_loss:1.90792,training_acc:0.49095,test_loss:1.76346,test_acc:0.52550
+epo 141, test, loss=1.7477 acc=0.5342, acc@5=0.7988
+epoch:141,lr:0.0723,training_loss:1.91281,training_acc:0.49188,test_loss:1.74771,test_acc:0.53417
+epo 142, test, loss=1.7713 acc=0.5187, acc@5=0.8022
+epoch:142,lr:0.0720,training_loss:1.89916,training_acc:0.49290,test_loss:1.77126,test_acc:0.51867
+epo 143, test, loss=1.7535 acc=0.5282, acc@5=0.8017
+epoch:143,lr:0.0716,training_loss:1.89943,training_acc:0.49368,test_loss:1.75353,test_acc:0.52817
+epo 144, test, loss=1.7222 acc=0.5302, acc@5=0.8090
+epoch:144,lr:0.0713,training_loss:1.90743,training_acc:0.49181,test_loss:1.72219,test_acc:0.53017
+epo 145, test, loss=1.7669 acc=0.5250, acc@5=0.8003
+epoch:145,lr:0.0709,training_loss:1.89474,training_acc:0.49458,test_loss:1.76690,test_acc:0.52500
+epo 146, test, loss=1.6469 acc=0.5578, acc@5=0.8205
+epoch:146,lr:0.0706,training_loss:1.87200,training_acc:0.50014,test_loss:1.64691,test_acc:0.55783
+epo 147, test, loss=1.5891 acc=0.5717, acc@5=0.8293
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 147, best test acc=57.167
+epoch:147,lr:0.0702,training_loss:1.87739,training_acc:0.49628,test_loss:1.58915,test_acc:0.57167
+epo 148, test, loss=1.7381 acc=0.5320, acc@5=0.8160
+epoch:148,lr:0.0699,training_loss:1.88264,training_acc:0.49596,test_loss:1.73807,test_acc:0.53200
+epo 149, test, loss=1.7030 acc=0.5475, acc@5=0.8098
+epoch:149,lr:0.0695,training_loss:1.87696,training_acc:0.49826,test_loss:1.70298,test_acc:0.54750
+epo 150, test, loss=1.5797 acc=0.5687, acc@5=0.8282
+epoch:150,lr:0.0691,training_loss:1.87961,training_acc:0.49681,test_loss:1.57972,test_acc:0.56867
+epo 151, test, loss=1.6303 acc=0.5588, acc@5=0.8282
+epoch:151,lr:0.0688,training_loss:1.88267,training_acc:0.49712,test_loss:1.63034,test_acc:0.55883
+epo 152, test, loss=1.7152 acc=0.5423, acc@5=0.8115
+epoch:152,lr:0.0684,training_loss:1.88234,training_acc:0.49809,test_loss:1.71524,test_acc:0.54233
+epo 153, test, loss=1.6501 acc=0.5512, acc@5=0.8263
+epoch:153,lr:0.0680,training_loss:1.86794,training_acc:0.50049,test_loss:1.65008,test_acc:0.55117
+epo 154, test, loss=1.7027 acc=0.5450, acc@5=0.8068
+epoch:154,lr:0.0677,training_loss:1.85061,training_acc:0.50665,test_loss:1.70267,test_acc:0.54500
+epo 155, test, loss=1.5936 acc=0.5695, acc@5=0.8270
+epoch:155,lr:0.0673,training_loss:1.86212,training_acc:0.50252,test_loss:1.59357,test_acc:0.56950
+epo 156, test, loss=1.8668 acc=0.4987, acc@5=0.7827
+epoch:156,lr:0.0669,training_loss:1.86322,training_acc:0.50288,test_loss:1.86678,test_acc:0.49867
+epo 157, test, loss=1.8089 acc=0.5185, acc@5=0.7953
+epoch:157,lr:0.0666,training_loss:1.84060,training_acc:0.50830,test_loss:1.80887,test_acc:0.51850
+epo 158, test, loss=1.6548 acc=0.5465, acc@5=0.8258
+epoch:158,lr:0.0662,training_loss:1.86384,training_acc:0.50136,test_loss:1.65485,test_acc:0.54650
+epo 159, test, loss=1.9756 acc=0.4985, acc@5=0.7655
+epoch:159,lr:0.0658,training_loss:1.85527,training_acc:0.50155,test_loss:1.97556,test_acc:0.49850
+epo 160, test, loss=1.7159 acc=0.5342, acc@5=0.8110
+epoch:160,lr:0.0655,training_loss:1.85779,training_acc:0.50339,test_loss:1.71586,test_acc:0.53417
+epo 161, test, loss=1.7411 acc=0.5363, acc@5=0.8037
+epoch:161,lr:0.0651,training_loss:1.85164,training_acc:0.50327,test_loss:1.74114,test_acc:0.53633
+epo 162, test, loss=1.5964 acc=0.5618, acc@5=0.8257
+epoch:162,lr:0.0647,training_loss:1.84629,training_acc:0.50506,test_loss:1.59641,test_acc:0.56183
+epo 163, test, loss=1.7919 acc=0.5173, acc@5=0.8013
+epoch:163,lr:0.0643,training_loss:1.83435,training_acc:0.50995,test_loss:1.79193,test_acc:0.51733
+epo 164, test, loss=1.6193 acc=0.5600, acc@5=0.8303
+epoch:164,lr:0.0639,training_loss:1.83421,training_acc:0.50900,test_loss:1.61933,test_acc:0.56000
+epo 165, test, loss=1.7451 acc=0.5333, acc@5=0.8013
+epoch:165,lr:0.0636,training_loss:1.82936,training_acc:0.50762,test_loss:1.74511,test_acc:0.53333
+epo 166, test, loss=1.8195 acc=0.5258, acc@5=0.7898
+epoch:166,lr:0.0632,training_loss:1.83284,training_acc:0.51036,test_loss:1.81952,test_acc:0.52583
+epo 167, test, loss=1.8599 acc=0.5082, acc@5=0.7858
+epoch:167,lr:0.0628,training_loss:1.82958,training_acc:0.50636,test_loss:1.85992,test_acc:0.50817
+epo 168, test, loss=1.8172 acc=0.5207, acc@5=0.7887
+epoch:168,lr:0.0624,training_loss:1.83202,training_acc:0.50659,test_loss:1.81720,test_acc:0.52067
+epo 169, test, loss=1.8258 acc=0.5180, acc@5=0.7958
+epoch:169,lr:0.0621,training_loss:1.82972,training_acc:0.50818,test_loss:1.82585,test_acc:0.51800
+epo 170, test, loss=1.6408 acc=0.5560, acc@5=0.8190
+epoch:170,lr:0.0617,training_loss:1.82273,training_acc:0.51113,test_loss:1.64078,test_acc:0.55600
+epo 171, test, loss=1.9574 acc=0.4980, acc@5=0.7658
+epoch:171,lr:0.0613,training_loss:1.80940,training_acc:0.51533,test_loss:1.95737,test_acc:0.49800
+epo 172, test, loss=1.6788 acc=0.5450, acc@5=0.8178
+epoch:172,lr:0.0609,training_loss:1.80282,training_acc:0.51827,test_loss:1.67875,test_acc:0.54500
+epo 173, test, loss=1.7173 acc=0.5355, acc@5=0.8072
+epoch:173,lr:0.0605,training_loss:1.79829,training_acc:0.51877,test_loss:1.71734,test_acc:0.53550
+epo 174, test, loss=1.7057 acc=0.5328, acc@5=0.8090
+epoch:174,lr:0.0601,training_loss:1.81206,training_acc:0.51340,test_loss:1.70574,test_acc:0.53283
+epo 175, test, loss=1.6544 acc=0.5557, acc@5=0.8213
+epoch:175,lr:0.0598,training_loss:1.81992,training_acc:0.51234,test_loss:1.65440,test_acc:0.55567
+epo 176, test, loss=1.6158 acc=0.5582, acc@5=0.8293
+epoch:176,lr:0.0594,training_loss:1.79137,training_acc:0.51854,test_loss:1.61576,test_acc:0.55817
+epo 177, test, loss=1.6609 acc=0.5498, acc@5=0.8188
+epoch:177,lr:0.0590,training_loss:1.79122,training_acc:0.51995,test_loss:1.66092,test_acc:0.54983
+epo 178, test, loss=1.5719 acc=0.5733, acc@5=0.8310
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 178, best test acc=57.333
+epoch:178,lr:0.0586,training_loss:1.80237,training_acc:0.51674,test_loss:1.57190,test_acc:0.57333
+epo 179, test, loss=1.6513 acc=0.5542, acc@5=0.8187
+epoch:179,lr:0.0582,training_loss:1.79029,training_acc:0.52199,test_loss:1.65130,test_acc:0.55417
+epo 180, test, loss=1.5439 acc=0.5748, acc@5=0.8415
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 180, best test acc=57.483
+epoch:180,lr:0.0578,training_loss:1.78105,training_acc:0.52115,test_loss:1.54388,test_acc:0.57483
+epo 181, test, loss=1.6617 acc=0.5510, acc@5=0.8153
+epoch:181,lr:0.0574,training_loss:1.76380,training_acc:0.52496,test_loss:1.66173,test_acc:0.55100
+epo 182, test, loss=1.6412 acc=0.5632, acc@5=0.8202
+epoch:182,lr:0.0570,training_loss:1.77019,training_acc:0.52607,test_loss:1.64123,test_acc:0.56317
+epo 183, test, loss=1.8199 acc=0.5147, acc@5=0.7978
+epoch:183,lr:0.0567,training_loss:1.76650,training_acc:0.52588,test_loss:1.81986,test_acc:0.51467
+epo 184, test, loss=1.4633 acc=0.6022, acc@5=0.8507
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 184, best test acc=60.217
+epoch:184,lr:0.0563,training_loss:1.76882,training_acc:0.52479,test_loss:1.46329,test_acc:0.60217
+epo 185, test, loss=1.6246 acc=0.5628, acc@5=0.8278
+epoch:185,lr:0.0559,training_loss:1.76058,training_acc:0.52803,test_loss:1.62465,test_acc:0.56283
+epo 186, test, loss=1.5618 acc=0.5775, acc@5=0.8305
+epoch:186,lr:0.0555,training_loss:1.77176,training_acc:0.52243,test_loss:1.56179,test_acc:0.57750
+epo 187, test, loss=1.6525 acc=0.5577, acc@5=0.8247
+epoch:187,lr:0.0551,training_loss:1.75003,training_acc:0.52927,test_loss:1.65254,test_acc:0.55767
+epo 188, test, loss=1.8224 acc=0.5220, acc@5=0.7890
+epoch:188,lr:0.0547,training_loss:1.76167,training_acc:0.52765,test_loss:1.82243,test_acc:0.52200
+epo 189, test, loss=1.6029 acc=0.5608, acc@5=0.8340
+epoch:189,lr:0.0543,training_loss:1.75454,training_acc:0.52917,test_loss:1.60289,test_acc:0.56083
+epo 190, test, loss=1.7210 acc=0.5477, acc@5=0.8090
+epoch:190,lr:0.0539,training_loss:1.74888,training_acc:0.53121,test_loss:1.72097,test_acc:0.54767
+epo 191, test, loss=1.5582 acc=0.5795, acc@5=0.8338
+epoch:191,lr:0.0535,training_loss:1.76475,training_acc:0.52664,test_loss:1.55825,test_acc:0.57950
+epo 192, test, loss=1.6153 acc=0.5672, acc@5=0.8265
+epoch:192,lr:0.0531,training_loss:1.73861,training_acc:0.53297,test_loss:1.61529,test_acc:0.56717
+epo 193, test, loss=1.6205 acc=0.5590, acc@5=0.8257
+epoch:193,lr:0.0527,training_loss:1.73074,training_acc:0.53433,test_loss:1.62053,test_acc:0.55900
+epo 194, test, loss=1.6648 acc=0.5575, acc@5=0.8160
+epoch:194,lr:0.0524,training_loss:1.73096,training_acc:0.53409,test_loss:1.66482,test_acc:0.55750
+epo 195, test, loss=1.4717 acc=0.6097, acc@5=0.8482
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 195, best test acc=60.967
+epoch:195,lr:0.0520,training_loss:1.71903,training_acc:0.53696,test_loss:1.47172,test_acc:0.60967
+epo 196, test, loss=1.5451 acc=0.5858, acc@5=0.8348
+epoch:196,lr:0.0516,training_loss:1.71877,training_acc:0.53815,test_loss:1.54506,test_acc:0.58583
+epo 197, test, loss=1.5125 acc=0.5845, acc@5=0.8442
+epoch:197,lr:0.0512,training_loss:1.72390,training_acc:0.53477,test_loss:1.51248,test_acc:0.58450
+epo 198, test, loss=1.6844 acc=0.5487, acc@5=0.8180
+epoch:198,lr:0.0508,training_loss:1.72251,training_acc:0.53996,test_loss:1.68441,test_acc:0.54867
+epo 199, test, loss=1.6209 acc=0.5735, acc@5=0.8232
+epoch:199,lr:0.0504,training_loss:1.70693,training_acc:0.53662,test_loss:1.62091,test_acc:0.57350
+epo 200, test, loss=1.7748 acc=0.5338, acc@5=0.8035
+epoch:200,lr:0.0500,training_loss:1.70545,training_acc:0.54358,test_loss:1.77484,test_acc:0.53383
+epo 201, test, loss=1.4925 acc=0.5955, acc@5=0.8383
+epoch:201,lr:0.0496,training_loss:1.71013,training_acc:0.54178,test_loss:1.49252,test_acc:0.59550
+epo 202, test, loss=1.4756 acc=0.5957, acc@5=0.8525
+epoch:202,lr:0.0492,training_loss:1.69967,training_acc:0.53841,test_loss:1.47557,test_acc:0.59567
+epo 203, test, loss=1.5819 acc=0.5788, acc@5=0.8275
+epoch:203,lr:0.0488,training_loss:1.69747,training_acc:0.54191,test_loss:1.58195,test_acc:0.57883
+epo 204, test, loss=1.5717 acc=0.5745, acc@5=0.8353
+epoch:204,lr:0.0484,training_loss:1.70326,training_acc:0.54194,test_loss:1.57168,test_acc:0.57450
+epo 205, test, loss=1.5732 acc=0.5812, acc@5=0.8312
+epoch:205,lr:0.0480,training_loss:1.69744,training_acc:0.54222,test_loss:1.57323,test_acc:0.58117
+epo 206, test, loss=1.7150 acc=0.5313, acc@5=0.8117
+epoch:206,lr:0.0476,training_loss:1.68101,training_acc:0.54755,test_loss:1.71500,test_acc:0.53133
+epo 207, test, loss=1.5885 acc=0.5690, acc@5=0.8383
+epoch:207,lr:0.0473,training_loss:1.67855,training_acc:0.54696,test_loss:1.58852,test_acc:0.56900
+epo 208, test, loss=1.5458 acc=0.5790, acc@5=0.8383
+epoch:208,lr:0.0469,training_loss:1.67600,training_acc:0.54654,test_loss:1.54583,test_acc:0.57900
+epo 209, test, loss=1.4907 acc=0.5917, acc@5=0.8480
+epoch:209,lr:0.0465,training_loss:1.68631,training_acc:0.54600,test_loss:1.49069,test_acc:0.59167
+epo 210, test, loss=1.6553 acc=0.5623, acc@5=0.8307
+epoch:210,lr:0.0461,training_loss:1.66659,training_acc:0.55045,test_loss:1.65535,test_acc:0.56233
+epo 211, test, loss=1.6287 acc=0.5623, acc@5=0.8348
+epoch:211,lr:0.0457,training_loss:1.66152,training_acc:0.55000,test_loss:1.62868,test_acc:0.56233
+epo 212, test, loss=1.4587 acc=0.6007, acc@5=0.8523
+epoch:212,lr:0.0453,training_loss:1.65446,training_acc:0.55500,test_loss:1.45870,test_acc:0.60067
+epo 213, test, loss=1.4985 acc=0.5940, acc@5=0.8445
+epoch:213,lr:0.0449,training_loss:1.66307,training_acc:0.55055,test_loss:1.49853,test_acc:0.59400
+epo 214, test, loss=1.4681 acc=0.6015, acc@5=0.8462
+epoch:214,lr:0.0445,training_loss:1.65145,training_acc:0.55486,test_loss:1.46807,test_acc:0.60150
+epo 215, test, loss=1.6174 acc=0.5662, acc@5=0.8262
+epoch:215,lr:0.0441,training_loss:1.63664,training_acc:0.55187,test_loss:1.61740,test_acc:0.56617
+epo 216, test, loss=1.5581 acc=0.5758, acc@5=0.8387
+epoch:216,lr:0.0437,training_loss:1.65811,training_acc:0.55286,test_loss:1.55811,test_acc:0.57583
+epo 217, test, loss=1.4976 acc=0.5945, acc@5=0.8488
+epoch:217,lr:0.0433,training_loss:1.64921,training_acc:0.55583,test_loss:1.49763,test_acc:0.59450
+epo 218, test, loss=1.5301 acc=0.5823, acc@5=0.8397
+epoch:218,lr:0.0430,training_loss:1.62505,training_acc:0.56205,test_loss:1.53013,test_acc:0.58233
+epo 219, test, loss=1.7169 acc=0.5410, acc@5=0.8045
+epoch:219,lr:0.0426,training_loss:1.63820,training_acc:0.55299,test_loss:1.71685,test_acc:0.54100
+epo 220, test, loss=1.6261 acc=0.5653, acc@5=0.8262
+epoch:220,lr:0.0422,training_loss:1.62964,training_acc:0.55855,test_loss:1.62608,test_acc:0.56533
+epo 221, test, loss=1.4102 acc=0.6162, acc@5=0.8550
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 221, best test acc=61.617
+epoch:221,lr:0.0418,training_loss:1.63327,training_acc:0.55723,test_loss:1.41020,test_acc:0.61617
+epo 222, test, loss=1.3485 acc=0.6267, acc@5=0.8702
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 222, best test acc=62.667
+epoch:222,lr:0.0414,training_loss:1.61091,training_acc:0.56254,test_loss:1.34850,test_acc:0.62667
+epo 223, test, loss=1.5848 acc=0.5730, acc@5=0.8327
+epoch:223,lr:0.0410,training_loss:1.61648,training_acc:0.56321,test_loss:1.58480,test_acc:0.57300
+epo 224, test, loss=1.5103 acc=0.5855, acc@5=0.8443
+epoch:224,lr:0.0406,training_loss:1.62137,training_acc:0.56145,test_loss:1.51030,test_acc:0.58550
+epo 225, test, loss=1.4173 acc=0.6133, acc@5=0.8595
+epoch:225,lr:0.0402,training_loss:1.60735,training_acc:0.56154,test_loss:1.41725,test_acc:0.61333
+epo 226, test, loss=1.4432 acc=0.6100, acc@5=0.8587
+epoch:226,lr:0.0399,training_loss:1.59761,training_acc:0.56550,test_loss:1.44318,test_acc:0.61000
+epo 227, test, loss=1.4109 acc=0.6190, acc@5=0.8605
+epoch:227,lr:0.0395,training_loss:1.60026,training_acc:0.56650,test_loss:1.41089,test_acc:0.61900
+epo 228, test, loss=1.4834 acc=0.5942, acc@5=0.8483
+epoch:228,lr:0.0391,training_loss:1.61053,training_acc:0.56500,test_loss:1.48337,test_acc:0.59417
+epo 229, test, loss=1.3803 acc=0.6227, acc@5=0.8645
+epoch:229,lr:0.0387,training_loss:1.58772,training_acc:0.57090,test_loss:1.38030,test_acc:0.62267
+epo 230, test, loss=1.4476 acc=0.6085, acc@5=0.8527
+epoch:230,lr:0.0383,training_loss:1.57937,training_acc:0.57220,test_loss:1.44764,test_acc:0.60850
+epo 231, test, loss=1.4721 acc=0.5983, acc@5=0.8505
+epoch:231,lr:0.0379,training_loss:1.57791,training_acc:0.57225,test_loss:1.47213,test_acc:0.59833
+epo 232, test, loss=1.4378 acc=0.6128, acc@5=0.8532
+epoch:232,lr:0.0376,training_loss:1.56038,training_acc:0.57707,test_loss:1.43784,test_acc:0.61283
+epo 233, test, loss=1.3601 acc=0.6253, acc@5=0.8662
+epoch:233,lr:0.0372,training_loss:1.57489,training_acc:0.57380,test_loss:1.36007,test_acc:0.62533
+epo 234, test, loss=1.4354 acc=0.6152, acc@5=0.8515
+epoch:234,lr:0.0368,training_loss:1.56685,training_acc:0.57583,test_loss:1.43540,test_acc:0.61517
+epo 235, test, loss=1.4126 acc=0.6145, acc@5=0.8595
+epoch:235,lr:0.0364,training_loss:1.54883,training_acc:0.57896,test_loss:1.41261,test_acc:0.61450
+epo 236, test, loss=1.6742 acc=0.5535, acc@5=0.8187
+epoch:236,lr:0.0361,training_loss:1.55819,training_acc:0.57697,test_loss:1.67415,test_acc:0.55350
+epo 237, test, loss=1.4122 acc=0.6167, acc@5=0.8620
+epoch:237,lr:0.0357,training_loss:1.54082,training_acc:0.58270,test_loss:1.41222,test_acc:0.61667
+epo 238, test, loss=1.4269 acc=0.6130, acc@5=0.8598
+epoch:238,lr:0.0353,training_loss:1.56048,training_acc:0.57543,test_loss:1.42689,test_acc:0.61300
+epo 239, test, loss=1.3784 acc=0.6260, acc@5=0.8622
+epoch:239,lr:0.0349,training_loss:1.55566,training_acc:0.58112,test_loss:1.37836,test_acc:0.62600
+epo 240, test, loss=1.4362 acc=0.6130, acc@5=0.8555
+epoch:240,lr:0.0345,training_loss:1.53981,training_acc:0.57969,test_loss:1.43617,test_acc:0.61300
+epo 241, test, loss=1.3596 acc=0.6295, acc@5=0.8667
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 241, best test acc=62.950
+epoch:241,lr:0.0342,training_loss:1.51901,training_acc:0.58426,test_loss:1.35959,test_acc:0.62950
+epo 242, test, loss=1.4346 acc=0.6148, acc@5=0.8518
+epoch:242,lr:0.0338,training_loss:1.53439,training_acc:0.58260,test_loss:1.43463,test_acc:0.61483
+epo 243, test, loss=1.4032 acc=0.6235, acc@5=0.8622
+epoch:243,lr:0.0334,training_loss:1.52163,training_acc:0.58555,test_loss:1.40324,test_acc:0.62350
+epo 244, test, loss=1.4522 acc=0.6042, acc@5=0.8585
+epoch:244,lr:0.0331,training_loss:1.52591,training_acc:0.58567,test_loss:1.45219,test_acc:0.60417
+epo 245, test, loss=1.3416 acc=0.6340, acc@5=0.8645
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 245, best test acc=63.400
+epoch:245,lr:0.0327,training_loss:1.51261,training_acc:0.58717,test_loss:1.34164,test_acc:0.63400
+epo 246, test, loss=1.3648 acc=0.6247, acc@5=0.8658
+epoch:246,lr:0.0323,training_loss:1.49902,training_acc:0.58867,test_loss:1.36483,test_acc:0.62467
+epo 247, test, loss=1.3619 acc=0.6242, acc@5=0.8608
+epoch:247,lr:0.0320,training_loss:1.49739,training_acc:0.58980,test_loss:1.36194,test_acc:0.62417
+epo 248, test, loss=1.5219 acc=0.5873, acc@5=0.8417
+epoch:248,lr:0.0316,training_loss:1.50634,training_acc:0.58775,test_loss:1.52189,test_acc:0.58733
+epo 249, test, loss=1.4386 acc=0.6162, acc@5=0.8528
+epoch:249,lr:0.0312,training_loss:1.49749,training_acc:0.59305,test_loss:1.43861,test_acc:0.61617
+epo 250, test, loss=1.3322 acc=0.6335, acc@5=0.8695
+epoch:250,lr:0.0309,training_loss:1.49084,training_acc:0.59630,test_loss:1.33222,test_acc:0.63350
+epo 251, test, loss=1.3242 acc=0.6383, acc@5=0.8683
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 251, best test acc=63.833
+epoch:251,lr:0.0305,training_loss:1.48834,training_acc:0.59621,test_loss:1.32421,test_acc:0.63833
+epo 252, test, loss=1.4659 acc=0.6113, acc@5=0.8527
+epoch:252,lr:0.0301,training_loss:1.49112,training_acc:0.59387,test_loss:1.46588,test_acc:0.61133
+epo 253, test, loss=1.4457 acc=0.6147, acc@5=0.8523
+epoch:253,lr:0.0298,training_loss:1.46687,training_acc:0.60250,test_loss:1.44569,test_acc:0.61467
+epo 254, test, loss=1.3392 acc=0.6347, acc@5=0.8720
+epoch:254,lr:0.0294,training_loss:1.45294,training_acc:0.60089,test_loss:1.33919,test_acc:0.63467
+epo 255, test, loss=1.4134 acc=0.6173, acc@5=0.8598
+epoch:255,lr:0.0291,training_loss:1.45961,training_acc:0.60018,test_loss:1.41336,test_acc:0.61733
+epo 256, test, loss=1.3186 acc=0.6348, acc@5=0.8762
+epoch:256,lr:0.0287,training_loss:1.46247,training_acc:0.60058,test_loss:1.31856,test_acc:0.63483
+epo 257, test, loss=1.4032 acc=0.6215, acc@5=0.8628
+epoch:257,lr:0.0284,training_loss:1.46128,training_acc:0.60358,test_loss:1.40320,test_acc:0.62150
+epo 258, test, loss=1.3212 acc=0.6398, acc@5=0.8757
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 258, best test acc=63.983
+epoch:258,lr:0.0280,training_loss:1.43903,training_acc:0.60785,test_loss:1.32124,test_acc:0.63983
+epo 259, test, loss=1.3113 acc=0.6457, acc@5=0.8688
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 259, best test acc=64.567
+epoch:259,lr:0.0277,training_loss:1.44669,training_acc:0.60524,test_loss:1.31129,test_acc:0.64567
+epo 260, test, loss=1.3338 acc=0.6362, acc@5=0.8675
+epoch:260,lr:0.0273,training_loss:1.43701,training_acc:0.60608,test_loss:1.33378,test_acc:0.63617
+epo 261, test, loss=1.3433 acc=0.6308, acc@5=0.8643
+epoch:261,lr:0.0270,training_loss:1.42057,training_acc:0.61243,test_loss:1.34329,test_acc:0.63083
+epo 262, test, loss=1.4923 acc=0.6047, acc@5=0.8537
+epoch:262,lr:0.0266,training_loss:1.41545,training_acc:0.61383,test_loss:1.49229,test_acc:0.60467
+epo 263, test, loss=1.4608 acc=0.6050, acc@5=0.8565
+epoch:263,lr:0.0263,training_loss:1.41348,training_acc:0.61524,test_loss:1.46083,test_acc:0.60500
+epo 264, test, loss=1.3229 acc=0.6372, acc@5=0.8690
+epoch:264,lr:0.0259,training_loss:1.42608,training_acc:0.61076,test_loss:1.32291,test_acc:0.63717
+epo 265, test, loss=1.2085 acc=0.6638, acc@5=0.8875
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 265, best test acc=66.383
+epoch:265,lr:0.0256,training_loss:1.40479,training_acc:0.61483,test_loss:1.20848,test_acc:0.66383
+epo 266, test, loss=1.3462 acc=0.6287, acc@5=0.8663
+epoch:266,lr:0.0252,training_loss:1.40764,training_acc:0.61455,test_loss:1.34623,test_acc:0.62867
+epo 267, test, loss=1.3112 acc=0.6442, acc@5=0.8690
+epoch:267,lr:0.0249,training_loss:1.39116,training_acc:0.61981,test_loss:1.31122,test_acc:0.64417
+epo 268, test, loss=1.3776 acc=0.6255, acc@5=0.8618
+epoch:268,lr:0.0245,training_loss:1.39415,training_acc:0.61856,test_loss:1.37764,test_acc:0.62550
+epo 269, test, loss=1.3473 acc=0.6345, acc@5=0.8682
+epoch:269,lr:0.0242,training_loss:1.39761,training_acc:0.61554,test_loss:1.34729,test_acc:0.63450
+epo 270, test, loss=1.3031 acc=0.6443, acc@5=0.8692
+epoch:270,lr:0.0239,training_loss:1.37523,training_acc:0.62192,test_loss:1.30310,test_acc:0.64433
+epo 271, test, loss=1.3006 acc=0.6495, acc@5=0.8695
+epoch:271,lr:0.0235,training_loss:1.37457,training_acc:0.62445,test_loss:1.30055,test_acc:0.64950
+epo 272, test, loss=1.3075 acc=0.6490, acc@5=0.8740
+epoch:272,lr:0.0232,training_loss:1.36984,training_acc:0.62379,test_loss:1.30748,test_acc:0.64900
+epo 273, test, loss=1.3424 acc=0.6408, acc@5=0.8668
+epoch:273,lr:0.0229,training_loss:1.36205,training_acc:0.62834,test_loss:1.34245,test_acc:0.64083
+epo 274, test, loss=1.2931 acc=0.6460, acc@5=0.8820
+epoch:274,lr:0.0225,training_loss:1.34013,training_acc:0.63338,test_loss:1.29306,test_acc:0.64600
+epo 275, test, loss=1.3300 acc=0.6440, acc@5=0.8690
+epoch:275,lr:0.0222,training_loss:1.34724,training_acc:0.63156,test_loss:1.33004,test_acc:0.64400
+epo 276, test, loss=1.3353 acc=0.6447, acc@5=0.8698
+epoch:276,lr:0.0219,training_loss:1.35421,training_acc:0.63091,test_loss:1.33527,test_acc:0.64467
+epo 277, test, loss=1.3412 acc=0.6387, acc@5=0.8695
+epoch:277,lr:0.0216,training_loss:1.33677,training_acc:0.63238,test_loss:1.34116,test_acc:0.63867
+epo 278, test, loss=1.3056 acc=0.6487, acc@5=0.8727
+epoch:278,lr:0.0212,training_loss:1.32050,training_acc:0.63307,test_loss:1.30564,test_acc:0.64867
+epo 279, test, loss=1.2425 acc=0.6603, acc@5=0.8790
+epoch:279,lr:0.0209,training_loss:1.32821,training_acc:0.63293,test_loss:1.24251,test_acc:0.66033
+epo 280, test, loss=1.2383 acc=0.6642, acc@5=0.8810
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 280, best test acc=66.417
+epoch:280,lr:0.0206,training_loss:1.31424,training_acc:0.64520,test_loss:1.23827,test_acc:0.66417
+epo 281, test, loss=1.2199 acc=0.6617, acc@5=0.8870
+epoch:281,lr:0.0203,training_loss:1.31288,training_acc:0.64004,test_loss:1.21990,test_acc:0.66167
+epo 282, test, loss=1.3757 acc=0.6315, acc@5=0.8632
+epoch:282,lr:0.0200,training_loss:1.31772,training_acc:0.63913,test_loss:1.37571,test_acc:0.63150
+epo 283, test, loss=1.2546 acc=0.6550, acc@5=0.8768
+epoch:283,lr:0.0197,training_loss:1.30478,training_acc:0.64077,test_loss:1.25459,test_acc:0.65500
+epo 284, test, loss=1.2773 acc=0.6542, acc@5=0.8708
+epoch:284,lr:0.0194,training_loss:1.29545,training_acc:0.64154,test_loss:1.27733,test_acc:0.65417
+epo 285, test, loss=1.1899 acc=0.6748, acc@5=0.8860
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 285, best test acc=67.483
+epoch:285,lr:0.0190,training_loss:1.28844,training_acc:0.64434,test_loss:1.18994,test_acc:0.67483
+epo 286, test, loss=1.2292 acc=0.6675, acc@5=0.8862
+epoch:286,lr:0.0187,training_loss:1.27718,training_acc:0.64846,test_loss:1.22924,test_acc:0.66750
+epo 287, test, loss=1.3271 acc=0.6422, acc@5=0.8753
+epoch:287,lr:0.0184,training_loss:1.28522,training_acc:0.64734,test_loss:1.32706,test_acc:0.64217
+epo 288, test, loss=1.3575 acc=0.6363, acc@5=0.8645
+epoch:288,lr:0.0181,training_loss:1.27562,training_acc:0.64700,test_loss:1.35754,test_acc:0.63633
+epo 289, test, loss=1.3759 acc=0.6263, acc@5=0.8612
+epoch:289,lr:0.0178,training_loss:1.25887,training_acc:0.65312,test_loss:1.37586,test_acc:0.62633
+epo 290, test, loss=1.1802 acc=0.6827, acc@5=0.8860
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 290, best test acc=68.267
+epoch:290,lr:0.0175,training_loss:1.25243,training_acc:0.65387,test_loss:1.18023,test_acc:0.68267
+epo 291, test, loss=1.1993 acc=0.6768, acc@5=0.8825
+epoch:291,lr:0.0172,training_loss:1.23999,training_acc:0.65807,test_loss:1.19925,test_acc:0.67683
+epo 292, test, loss=1.1768 acc=0.6760, acc@5=0.8933
+epoch:292,lr:0.0169,training_loss:1.25417,training_acc:0.65701,test_loss:1.17683,test_acc:0.67600
+epo 293, test, loss=1.1839 acc=0.6763, acc@5=0.8930
+epoch:293,lr:0.0166,training_loss:1.24307,training_acc:0.66033,test_loss:1.18390,test_acc:0.67633
+epo 294, test, loss=1.2579 acc=0.6643, acc@5=0.8815
+epoch:294,lr:0.0163,training_loss:1.23107,training_acc:0.66067,test_loss:1.25788,test_acc:0.66433
+epo 295, test, loss=1.1962 acc=0.6738, acc@5=0.8910
+epoch:295,lr:0.0161,training_loss:1.22442,training_acc:0.66448,test_loss:1.19616,test_acc:0.67383
+epo 296, test, loss=1.1578 acc=0.6877, acc@5=0.8953
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 296, best test acc=68.767
+epoch:296,lr:0.0158,training_loss:1.22253,training_acc:0.66256,test_loss:1.15778,test_acc:0.68767
+epo 297, test, loss=1.1839 acc=0.6795, acc@5=0.8848
+epoch:297,lr:0.0155,training_loss:1.20660,training_acc:0.66688,test_loss:1.18389,test_acc:0.67950
+epo 298, test, loss=1.1359 acc=0.6892, acc@5=0.8925
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 298, best test acc=68.917
+epoch:298,lr:0.0152,training_loss:1.20079,training_acc:0.67096,test_loss:1.13589,test_acc:0.68917
+epo 299, test, loss=1.1644 acc=0.6832, acc@5=0.8918
+epoch:299,lr:0.0149,training_loss:1.19219,training_acc:0.67029,test_loss:1.16436,test_acc:0.68317
+epo 300, test, loss=1.1674 acc=0.6895, acc@5=0.8925
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 300, best test acc=68.950
+epoch:300,lr:0.0146,training_loss:1.17794,training_acc:0.67457,test_loss:1.16743,test_acc:0.68950
+epo 301, test, loss=1.2297 acc=0.6693, acc@5=0.8863
+epoch:301,lr:0.0144,training_loss:1.18417,training_acc:0.67366,test_loss:1.22974,test_acc:0.66933
+epo 302, test, loss=1.2180 acc=0.6768, acc@5=0.8847
+epoch:302,lr:0.0141,training_loss:1.17497,training_acc:0.67637,test_loss:1.21802,test_acc:0.67683
+epo 303, test, loss=1.2300 acc=0.6748, acc@5=0.8823
+epoch:303,lr:0.0138,training_loss:1.16353,training_acc:0.67949,test_loss:1.22996,test_acc:0.67483
+epo 304, test, loss=1.2002 acc=0.6790, acc@5=0.8880
+epoch:304,lr:0.0136,training_loss:1.15367,training_acc:0.68198,test_loss:1.20016,test_acc:0.67900
+epo 305, test, loss=1.1319 acc=0.6907, acc@5=0.8953
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 305, best test acc=69.067
+epoch:305,lr:0.0133,training_loss:1.14520,training_acc:0.68475,test_loss:1.13191,test_acc:0.69067
+epo 306, test, loss=1.1416 acc=0.6935, acc@5=0.8918
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 306, best test acc=69.350
+epoch:306,lr:0.0130,training_loss:1.15263,training_acc:0.68245,test_loss:1.14157,test_acc:0.69350
+epo 307, test, loss=1.1916 acc=0.6828, acc@5=0.8907
+epoch:307,lr:0.0128,training_loss:1.12046,training_acc:0.69070,test_loss:1.19163,test_acc:0.68283
+epo 308, test, loss=1.1484 acc=0.6830, acc@5=0.8902
+epoch:308,lr:0.0125,training_loss:1.13363,training_acc:0.68738,test_loss:1.14845,test_acc:0.68300
+epo 309, test, loss=1.1220 acc=0.6940, acc@5=0.8937
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 309, best test acc=69.400
+epoch:309,lr:0.0122,training_loss:1.12219,training_acc:0.69035,test_loss:1.12202,test_acc:0.69400
+epo 310, test, loss=1.1147 acc=0.6983, acc@5=0.8997
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 310, best test acc=69.833
+epoch:310,lr:0.0120,training_loss:1.11137,training_acc:0.69053,test_loss:1.11473,test_acc:0.69833
+epo 311, test, loss=1.1512 acc=0.6857, acc@5=0.8993
+epoch:311,lr:0.0117,training_loss:1.11215,training_acc:0.69344,test_loss:1.15124,test_acc:0.68567
+epo 312, test, loss=1.1368 acc=0.6905, acc@5=0.8973
+epoch:312,lr:0.0115,training_loss:1.08793,training_acc:0.69912,test_loss:1.13683,test_acc:0.69050
+epo 313, test, loss=1.1541 acc=0.6895, acc@5=0.8915
+epoch:313,lr:0.0112,training_loss:1.08696,training_acc:0.69860,test_loss:1.15414,test_acc:0.68950
+epo 314, test, loss=1.1721 acc=0.6833, acc@5=0.8907
+epoch:314,lr:0.0110,training_loss:1.08890,training_acc:0.69761,test_loss:1.17208,test_acc:0.68333
+epo 315, test, loss=1.1060 acc=0.7038, acc@5=0.8995
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 315, best test acc=70.383
+epoch:315,lr:0.0107,training_loss:1.06699,training_acc:0.70588,test_loss:1.10604,test_acc:0.70383
+epo 316, test, loss=1.1060 acc=0.6975, acc@5=0.8990
+epoch:316,lr:0.0105,training_loss:1.07469,training_acc:0.70257,test_loss:1.10595,test_acc:0.69750
+epo 317, test, loss=1.1616 acc=0.6883, acc@5=0.8923
+epoch:317,lr:0.0103,training_loss:1.05129,training_acc:0.70830,test_loss:1.16158,test_acc:0.68833
+epo 318, test, loss=1.1368 acc=0.6897, acc@5=0.8957
+epoch:318,lr:0.0100,training_loss:1.04762,training_acc:0.70976,test_loss:1.13685,test_acc:0.68967
+epo 319, test, loss=1.1171 acc=0.7017, acc@5=0.8975
+epoch:319,lr:0.0098,training_loss:1.05950,training_acc:0.70674,test_loss:1.11706,test_acc:0.70167
+epo 320, test, loss=1.0594 acc=0.7172, acc@5=0.9063
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 320, best test acc=71.717
+epoch:320,lr:0.0095,training_loss:1.02174,training_acc:0.71660,test_loss:1.05941,test_acc:0.71717
+epo 321, test, loss=1.0951 acc=0.7015, acc@5=0.9028
+epoch:321,lr:0.0093,training_loss:1.02907,training_acc:0.71691,test_loss:1.09505,test_acc:0.70150
+epo 322, test, loss=1.2213 acc=0.6748, acc@5=0.8832
+epoch:322,lr:0.0091,training_loss:1.01783,training_acc:0.71780,test_loss:1.22127,test_acc:0.67483
+epo 323, test, loss=1.0783 acc=0.7117, acc@5=0.9010
+epoch:323,lr:0.0089,training_loss:1.00064,training_acc:0.72475,test_loss:1.07830,test_acc:0.71167
+epo 324, test, loss=1.1018 acc=0.7030, acc@5=0.9022
+epoch:324,lr:0.0086,training_loss:1.00599,training_acc:0.72135,test_loss:1.10178,test_acc:0.70300
+epo 325, test, loss=1.0692 acc=0.7148, acc@5=0.9058
+epoch:325,lr:0.0084,training_loss:0.98839,training_acc:0.72402,test_loss:1.06916,test_acc:0.71483
+epo 326, test, loss=1.0995 acc=0.7060, acc@5=0.8963
+epoch:326,lr:0.0082,training_loss:1.00410,training_acc:0.72079,test_loss:1.09949,test_acc:0.70600
+epo 327, test, loss=1.0467 acc=0.7157, acc@5=0.9078
+epoch:327,lr:0.0080,training_loss:0.98054,training_acc:0.72806,test_loss:1.04666,test_acc:0.71567
+epo 328, test, loss=1.0684 acc=0.7117, acc@5=0.9080
+epoch:328,lr:0.0078,training_loss:0.97817,training_acc:0.72992,test_loss:1.06841,test_acc:0.71167
+epo 329, test, loss=1.0632 acc=0.7075, acc@5=0.9003
+epoch:329,lr:0.0076,training_loss:0.96794,training_acc:0.73139,test_loss:1.06322,test_acc:0.70750
+epo 330, test, loss=1.0142 acc=0.7278, acc@5=0.9108
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 330, best test acc=72.783
+epoch:330,lr:0.0074,training_loss:0.95868,training_acc:0.73722,test_loss:1.01420,test_acc:0.72783
+epo 331, test, loss=1.0198 acc=0.7310, acc@5=0.9090
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 331, best test acc=73.100
+epoch:331,lr:0.0072,training_loss:0.94100,training_acc:0.73994,test_loss:1.01980,test_acc:0.73100
+epo 332, test, loss=1.0768 acc=0.7135, acc@5=0.9077
+epoch:332,lr:0.0070,training_loss:0.92954,training_acc:0.74177,test_loss:1.07682,test_acc:0.71350
+epo 333, test, loss=1.0970 acc=0.7050, acc@5=0.9002
+epoch:333,lr:0.0068,training_loss:0.92471,training_acc:0.74256,test_loss:1.09702,test_acc:0.70500
+epo 334, test, loss=1.0771 acc=0.7130, acc@5=0.8993
+epoch:334,lr:0.0066,training_loss:0.91375,training_acc:0.74661,test_loss:1.07715,test_acc:0.71300
+epo 335, test, loss=1.0549 acc=0.7207, acc@5=0.9043
+epoch:335,lr:0.0064,training_loss:0.90920,training_acc:0.74935,test_loss:1.05491,test_acc:0.72067
+epo 336, test, loss=1.0607 acc=0.7172, acc@5=0.9042
+epoch:336,lr:0.0062,training_loss:0.90778,training_acc:0.74707,test_loss:1.06074,test_acc:0.71717
+epo 337, test, loss=1.0340 acc=0.7213, acc@5=0.9108
+epoch:337,lr:0.0060,training_loss:0.89675,training_acc:0.75268,test_loss:1.03403,test_acc:0.72133
+epo 338, test, loss=1.0322 acc=0.7245, acc@5=0.9103
+epoch:338,lr:0.0058,training_loss:0.89048,training_acc:0.75253,test_loss:1.03224,test_acc:0.72450
+epo 339, test, loss=1.0659 acc=0.7118, acc@5=0.9020
+epoch:339,lr:0.0056,training_loss:0.88938,training_acc:0.75280,test_loss:1.06587,test_acc:0.71183
+epo 340, test, loss=1.0233 acc=0.7242, acc@5=0.9090
+epoch:340,lr:0.0054,training_loss:0.88303,training_acc:0.75616,test_loss:1.02332,test_acc:0.72417
+epo 341, test, loss=1.0346 acc=0.7222, acc@5=0.9085
+epoch:341,lr:0.0053,training_loss:0.86266,training_acc:0.76099,test_loss:1.03464,test_acc:0.72217
+epo 342, test, loss=1.0350 acc=0.7243, acc@5=0.9055
+epoch:342,lr:0.0051,training_loss:0.85774,training_acc:0.76205,test_loss:1.03496,test_acc:0.72433
+epo 343, test, loss=1.0236 acc=0.7275, acc@5=0.9095
+epoch:343,lr:0.0049,training_loss:0.84862,training_acc:0.76756,test_loss:1.02363,test_acc:0.72750
+epo 344, test, loss=1.0184 acc=0.7242, acc@5=0.9100
+epoch:344,lr:0.0048,training_loss:0.84495,training_acc:0.76898,test_loss:1.01842,test_acc:0.72417
+epo 345, test, loss=1.0241 acc=0.7247, acc@5=0.9088
+epoch:345,lr:0.0046,training_loss:0.83112,training_acc:0.77191,test_loss:1.02409,test_acc:0.72467
+epo 346, test, loss=0.9875 acc=0.7370, acc@5=0.9105
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 346, best test acc=73.700
+epoch:346,lr:0.0044,training_loss:0.80883,training_acc:0.77569,test_loss:0.98747,test_acc:0.73700
+epo 347, test, loss=1.0146 acc=0.7260, acc@5=0.9090
+epoch:347,lr:0.0043,training_loss:0.81420,training_acc:0.77728,test_loss:1.01464,test_acc:0.72600
+epo 348, test, loss=1.0039 acc=0.7287, acc@5=0.9160
+epoch:348,lr:0.0041,training_loss:0.80917,training_acc:0.77764,test_loss:1.00390,test_acc:0.72867
+epo 349, test, loss=1.0151 acc=0.7285, acc@5=0.9098
+epoch:349,lr:0.0040,training_loss:0.79163,training_acc:0.78154,test_loss:1.01514,test_acc:0.72850
+epo 350, test, loss=0.9952 acc=0.7410, acc@5=0.9108
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 350, best test acc=74.100
+epoch:350,lr:0.0038,training_loss:0.79319,training_acc:0.78186,test_loss:0.99519,test_acc:0.74100
+epo 351, test, loss=0.9955 acc=0.7345, acc@5=0.9107
+epoch:351,lr:0.0037,training_loss:0.78175,training_acc:0.78205,test_loss:0.99549,test_acc:0.73450
+epo 352, test, loss=1.0186 acc=0.7278, acc@5=0.9085
+epoch:352,lr:0.0035,training_loss:0.78381,training_acc:0.78391,test_loss:1.01864,test_acc:0.72783
+epo 353, test, loss=1.0083 acc=0.7335, acc@5=0.9110
+epoch:353,lr:0.0034,training_loss:0.75851,training_acc:0.79198,test_loss:1.00831,test_acc:0.73350
+epo 354, test, loss=0.9926 acc=0.7350, acc@5=0.9107
+epoch:354,lr:0.0032,training_loss:0.75369,training_acc:0.79207,test_loss:0.99262,test_acc:0.73500
+epo 355, test, loss=0.9980 acc=0.7392, acc@5=0.9118
+epoch:355,lr:0.0031,training_loss:0.74768,training_acc:0.79479,test_loss:0.99804,test_acc:0.73917
+epo 356, test, loss=0.9982 acc=0.7368, acc@5=0.9125
+epoch:356,lr:0.0030,training_loss:0.72745,training_acc:0.79803,test_loss:0.99820,test_acc:0.73683
+epo 357, test, loss=1.0022 acc=0.7352, acc@5=0.9137
+epoch:357,lr:0.0028,training_loss:0.72977,training_acc:0.79942,test_loss:1.00215,test_acc:0.73517
+epo 358, test, loss=0.9730 acc=0.7452, acc@5=0.9130
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 358, best test acc=74.517
+epoch:358,lr:0.0027,training_loss:0.72655,training_acc:0.80218,test_loss:0.97298,test_acc:0.74517
+epo 359, test, loss=0.9859 acc=0.7418, acc@5=0.9127
+epoch:359,lr:0.0026,training_loss:0.71298,training_acc:0.80324,test_loss:0.98586,test_acc:0.74183
+epo 360, test, loss=0.9535 acc=0.7427, acc@5=0.9187
+epoch:360,lr:0.0024,training_loss:0.71911,training_acc:0.80315,test_loss:0.95347,test_acc:0.74267
+epo 361, test, loss=0.9820 acc=0.7415, acc@5=0.9127
+epoch:361,lr:0.0023,training_loss:0.69469,training_acc:0.80982,test_loss:0.98201,test_acc:0.74150
+epo 362, test, loss=0.9788 acc=0.7412, acc@5=0.9153
+epoch:362,lr:0.0022,training_loss:0.69359,training_acc:0.80945,test_loss:0.97884,test_acc:0.74117
+epo 363, test, loss=0.9888 acc=0.7387, acc@5=0.9158
+epoch:363,lr:0.0021,training_loss:0.68914,training_acc:0.81102,test_loss:0.98880,test_acc:0.73867
+epo 364, test, loss=0.9671 acc=0.7450, acc@5=0.9173
+epoch:364,lr:0.0020,training_loss:0.68435,training_acc:0.81099,test_loss:0.96711,test_acc:0.74500
+epo 365, test, loss=0.9629 acc=0.7467, acc@5=0.9152
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 365, best test acc=74.667
+epoch:365,lr:0.0019,training_loss:0.66948,training_acc:0.81553,test_loss:0.96293,test_acc:0.74667
+epo 366, test, loss=0.9678 acc=0.7492, acc@5=0.9152
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 366, best test acc=74.917
+epoch:366,lr:0.0018,training_loss:0.66274,training_acc:0.81994,test_loss:0.96784,test_acc:0.74917
+epo 367, test, loss=0.9661 acc=0.7480, acc@5=0.9138
+epoch:367,lr:0.0017,training_loss:0.64872,training_acc:0.82098,test_loss:0.96608,test_acc:0.74800
+epo 368, test, loss=0.9640 acc=0.7438, acc@5=0.9165
+epoch:368,lr:0.0016,training_loss:0.64965,training_acc:0.82196,test_loss:0.96402,test_acc:0.74383
+epo 369, test, loss=0.9498 acc=0.7518, acc@5=0.9165
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 369, best test acc=75.183
+epoch:369,lr:0.0015,training_loss:0.63464,training_acc:0.82769,test_loss:0.94981,test_acc:0.75183
+epo 370, test, loss=0.9545 acc=0.7502, acc@5=0.9142
+epoch:370,lr:0.0014,training_loss:0.64479,training_acc:0.82361,test_loss:0.95447,test_acc:0.75017
+epo 371, test, loss=0.9378 acc=0.7512, acc@5=0.9173
+epoch:371,lr:0.0013,training_loss:0.63555,training_acc:0.82590,test_loss:0.93782,test_acc:0.75117
+epo 372, test, loss=0.9431 acc=0.7505, acc@5=0.9198
+epoch:372,lr:0.0012,training_loss:0.61299,training_acc:0.83306,test_loss:0.94310,test_acc:0.75050
+epo 373, test, loss=0.9392 acc=0.7523, acc@5=0.9173
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 373, best test acc=75.233
+epoch:373,lr:0.0011,training_loss:0.61755,training_acc:0.83164,test_loss:0.93917,test_acc:0.75233
+epo 374, test, loss=0.9412 acc=0.7560, acc@5=0.9150
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 374, best test acc=75.600
+epoch:374,lr:0.0010,training_loss:0.62466,training_acc:0.82912,test_loss:0.94125,test_acc:0.75600
+epo 375, test, loss=0.9286 acc=0.7555, acc@5=0.9180
+epoch:375,lr:0.0010,training_loss:0.62448,training_acc:0.82983,test_loss:0.92865,test_acc:0.75550
+epo 376, test, loss=0.9271 acc=0.7593, acc@5=0.9193
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 376, best test acc=75.933
+epoch:376,lr:0.0009,training_loss:0.61330,training_acc:0.83043,test_loss:0.92707,test_acc:0.75933
+epo 377, test, loss=0.9358 acc=0.7558, acc@5=0.9177
+epoch:377,lr:0.0008,training_loss:0.61593,training_acc:0.83226,test_loss:0.93577,test_acc:0.75583
+epo 378, test, loss=0.9315 acc=0.7568, acc@5=0.9182
+epoch:378,lr:0.0007,training_loss:0.59963,training_acc:0.83454,test_loss:0.93155,test_acc:0.75683
+epo 379, test, loss=0.9319 acc=0.7568, acc@5=0.9170
+epoch:379,lr:0.0007,training_loss:0.59587,training_acc:0.83505,test_loss:0.93185,test_acc:0.75683
+epo 380, test, loss=0.9315 acc=0.7553, acc@5=0.9200
+epoch:380,lr:0.0006,training_loss:0.58778,training_acc:0.84197,test_loss:0.93150,test_acc:0.75533
+epo 381, test, loss=0.9386 acc=0.7590, acc@5=0.9177
+epoch:381,lr:0.0006,training_loss:0.58424,training_acc:0.84089,test_loss:0.93862,test_acc:0.75900
+epo 382, test, loss=0.9187 acc=0.7628, acc@5=0.9210
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 382, best test acc=76.283
+epoch:382,lr:0.0005,training_loss:0.58842,training_acc:0.84086,test_loss:0.91866,test_acc:0.76283
+epo 383, test, loss=0.9141 acc=0.7615, acc@5=0.9177
+epoch:383,lr:0.0004,training_loss:0.57308,training_acc:0.84576,test_loss:0.91413,test_acc:0.76150
+epo 384, test, loss=0.9235 acc=0.7612, acc@5=0.9172
+epoch:384,lr:0.0004,training_loss:0.58249,training_acc:0.84283,test_loss:0.92347,test_acc:0.76117
+epo 385, test, loss=0.9194 acc=0.7593, acc@5=0.9173
+epoch:385,lr:0.0003,training_loss:0.56978,training_acc:0.84621,test_loss:0.91936,test_acc:0.75933
+epo 386, test, loss=0.9170 acc=0.7620, acc@5=0.9175
+epoch:386,lr:0.0003,training_loss:0.57251,training_acc:0.84436,test_loss:0.91698,test_acc:0.76200
+epo 387, test, loss=0.9213 acc=0.7593, acc@5=0.9183
+epoch:387,lr:0.0003,training_loss:0.57539,training_acc:0.84348,test_loss:0.92128,test_acc:0.75933
+epo 388, test, loss=0.9176 acc=0.7607, acc@5=0.9185
+epoch:388,lr:0.0002,training_loss:0.57857,training_acc:0.84334,test_loss:0.91758,test_acc:0.76067
+epo 389, test, loss=0.9208 acc=0.7623, acc@5=0.9165
+epoch:389,lr:0.0002,training_loss:0.56424,training_acc:0.84523,test_loss:0.92080,test_acc:0.76233
+epo 390, test, loss=0.9174 acc=0.7630, acc@5=0.9198
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 390, best test acc=76.300
+epoch:390,lr:0.0002,training_loss:0.57780,training_acc:0.84404,test_loss:0.91740,test_acc:0.76300
+epo 391, test, loss=0.9176 acc=0.7605, acc@5=0.9192
+epoch:391,lr:0.0001,training_loss:0.56089,training_acc:0.84930,test_loss:0.91760,test_acc:0.76050
+epo 392, test, loss=0.9180 acc=0.7620, acc@5=0.9177
+epoch:392,lr:0.0001,training_loss:0.57516,training_acc:0.84584,test_loss:0.91802,test_acc:0.76200
+epo 393, test, loss=0.9203 acc=0.7630, acc@5=0.9190
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 393, best test acc=76.300
+epoch:393,lr:0.0001,training_loss:0.56846,training_acc:0.84464,test_loss:0.92028,test_acc:0.76300
+epo 394, test, loss=0.9143 acc=0.7633, acc@5=0.9197
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 394, best test acc=76.333
+epoch:394,lr:0.0001,training_loss:0.56925,training_acc:0.84520,test_loss:0.91426,test_acc:0.76333
+epo 395, test, loss=0.9160 acc=0.7617, acc@5=0.9197
+epoch:395,lr:0.0000,training_loss:0.56482,training_acc:0.84904,test_loss:0.91603,test_acc:0.76167
+epo 396, test, loss=0.9176 acc=0.7603, acc@5=0.9168
+epoch:396,lr:0.0000,training_loss:0.56285,training_acc:0.84535,test_loss:0.91762,test_acc:0.76033
+epo 397, test, loss=0.9095 acc=0.7647, acc@5=0.9200
+********A better model is found!!**********
+Saving model to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+best epoch 397, best test acc=76.467
+epoch:397,lr:0.0000,training_loss:0.56888,training_acc:0.84628,test_loss:0.90951,test_acc:0.76467
+epo 398, test, loss=0.9131 acc=0.7632, acc@5=0.9195
+epoch:398,lr:0.0000,training_loss:0.55085,training_acc:0.85031,test_loss:0.91310,test_acc:0.76317
+epo 399, test, loss=0.9182 acc=0.7607, acc@5=0.9173
+epoch:399,lr:0.0000,training_loss:0.56631,training_acc:0.84786,test_loss:0.91825,test_acc:0.76067
+>>> Finish Base Train <<<
+Replace the fc with average embedding, and save it to :./checkpoint/mini_imagenet/teen/ft_cos-avg_cos-data_init-start_0/0213-19-53-50-432-Epo_400-Bs_128-sgd-Lr_0.1-decay0.0005-Mom_0.9-Max_400-NormF-T_16.00-tw_16-0.5-soft_proto/session0_max_acc.pth
+epo 0, test, loss=0.8656 acc=0.7655, acc@5=0.9252
+The new best test acc of base session=76.550
+training session: [1]
+epo 0, test, loss=1.0465 acc=0.7154, acc@5=0.9014
+Session 1 ==> Seen Acc:75.467 Unseen Acc:24.4 Avg Acc:71.538
+training session: [2]
+epo 0, test, loss=1.1968 acc=0.6719, acc@5=0.8774
+Session 2 ==> Seen Acc:74.5 Unseen Acc:23.3 Avg Acc:67.186
+training session: [3]
+epo 0, test, loss=1.3396 acc=0.6356, acc@5=0.8585
+Session 3 ==> Seen Acc:74.033 Unseen Acc:21.667 Avg Acc:63.56
+training session: [4]
+epo 0, test, loss=1.4585 acc=0.6096, acc@5=0.8399
+Session 4 ==> Seen Acc:73.833 Unseen Acc:22.35 Avg Acc:60.962
+training session: [5]
+epo 0, test, loss=1.5742 acc=0.5816, acc@5=0.8216
+Session 5 ==> Seen Acc:73.45 Unseen Acc:21.48 Avg Acc:58.165
+training session: [6]
+epo 0, test, loss=1.6923 acc=0.5544, acc@5=0.8011
+Session 6 ==> Seen Acc:73.083 Unseen Acc:20.167 Avg Acc:55.444
+training session: [7]
+epo 0, test, loss=1.7659 acc=0.5358, acc@5=0.7906
+Session 7 ==> Seen Acc:72.667 Unseen Acc:20.857 Avg Acc:53.579
+training session: [8]
+epo 0, test, loss=1.8418 acc=0.5216, acc@5=0.7797
+Session 8 ==> Seen Acc:72.283 Unseen Acc:21.975 Avg Acc:52.16
+max_acc: [76.55, 71.538, 67.186, 63.56, 60.962, 58.165, 55.444, 53.579, 52.16]
+Unseen acc: [24.4, 23.3, 21.667, 22.35, 21.48, 20.167, 20.857, 21.975]
+Seen acc: [75.467, 74.5, 74.033, 73.833, 73.45, 73.083, 72.667, 72.283]
+Harmonic mean: [36.877, 35.498, 33.523, 34.313, 33.239, 31.611, 32.411, 33.704]

@@ -16,8 +16,7 @@ def base_preTrain(model, trainloader, optimizer, scheduler, epoch, args):
         logits, logits1 = model(data)
         logits = logits[:, :args.base_class]
         loss = F.cross_entropy(logits, train_label)
-        #logits1 = logits1[:, :args.base_class]
-        #loss1 = F.cross_entropy(logits1, train_label)
+    
         acc = count_acc(logits, train_label)
         total_loss = loss #+ loss1
         lrc = scheduler.get_last_lr()[0]
