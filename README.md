@@ -26,7 +26,7 @@ Keywords: Few shot class incremental learning · Self Probing · Sparsity
 in embedding.
 
 ## Results
-<img src='results/selfprobingTable.PNG' width='900' height='700'> 
+<img src='results/Plots/acctableminiImageNet.PNG' width='900' height='700'> 
 
 Please refer to the paper...
 
