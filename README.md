@@ -1,4 +1,5 @@
-# Few Shot Class Incremental Learning with Self Probing (SP-FSCIL)
+#Few Shot Class Incremental Learning by
+Negative Exponential Weight Regularizer and Ensembling
 
 ##Citation
 
