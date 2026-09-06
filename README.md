@@ -1,15 +1,13 @@
-#Few Shot Class Incremental Learning by
-Negative Exponential Weight Regularizer and Ensembling
-
-##Citation
+# Few Shot Class Incremental Learning with Self-Probing
 
 ## Abstract
+
 Few-Shot Class-Incremental Learning (FSCIL) presents sig-
 nificant challenges, notably catastrophic forgetting and overfitting, due
 to the absence of prior training data and the scarcity of samples for
 newly introduced classes. Although various approaches have been pro-
 posed to tackle these challenges, this study highlights a key limitation
-in terms of the final-layer embeddings of a pre-trained feature extractor
+in terms of the final-layer embeddings of a pretrained feature extractor
 being overly task-specific, leading to sparse and less expressive represen-
 tations for new classes. However, some intermediate layers encode more
 transferable features, which can help reduce this sparsity.
@@ -19,15 +17,13 @@ from an inner layer. This approach aims to enrich the final-layer embed-
 dings for new classes. The meta-training process incorporates a sparse
 loss function designed to align the feature distributions between the self-
 probed layer and the final layer, thereby enhancing the representational
-quality for novel categories. 
+quality for novel categories.
 Evaluations of the proposed approach on benchmark datasets; miniIma-
 geNet, CIFAR100, and CUB200 demonstrate that the proposed method
 consistently outperforms existing state-of-the-art (SOTA) approaches.
-Keywords: Few shot class incremental learning · Self Probing · Sparsity
-in embedding.
 
 ## Results
-<img src='results/Plots/acctableminiImageNet.PNG' width='900' height='700'> 
+<img src='results/Plots/fig-3.accPlot.PNG' width='900' height='700'> 
 
 Please refer to the paper...
 
